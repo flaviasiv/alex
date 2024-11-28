@@ -12,9 +12,10 @@ Template Name: custom
     <link rel="stylesheet" href="style.css">
     <title><?php bloginfo( 'name' ); ?> - <?php bloginfo( 'description' ); ?></title>
     <?php wp_head(); ?> <!-- Essa função é necessária para carregar scripts e estilos do WordPress e plugins -->
+
 </head>
-    
-<div class="gallerycontainer container" id="portfolio">
+<body>
+  <div class="gallerycontainer container" id="portfolio">
               <div class="gallerytitle aos-fade">
                 <div class="title">
                   <small>See Our Dedication</small>
@@ -174,6 +175,7 @@ Template Name: custom
               </div>
             </div>
           </div>
+</body>
 
 
 <script src="./js/jquery.min.js"></script>

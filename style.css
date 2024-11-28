@@ -35,6 +35,7 @@ body{
     font-family: 'Inter', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    color: #fff;
 }
 html{
     scroll-behavior: smooth;
@@ -226,7 +227,7 @@ small{
 }
 .vetorvideocontainer h2{
     position: absolute;
-    z-index: 99;
+    z-index: 8;
     color: var(--Color-Brand-main, #021227);
     text-align: center;
     font-family: "Glacial Indifference";
@@ -239,7 +240,7 @@ small{
 }
 .vetorvideocontainer p{
     position: absolute;
-    z-index: 99;
+    z-index: 8;
     color: var(--Color-Brand-main, #021227);
     text-align: center;
     font-family: 'Inter';
@@ -253,7 +254,7 @@ small{
 }
 .vetorvideocontainer svg{
     position: absolute;
-    z-index: 99;
+    z-index: 8;
     left: 50%;
     top: 270px;
     transform: translateX(-50%);
@@ -321,6 +322,9 @@ small{
     transform: scale(1.05);
     transition: 0.2s;
 }
+.cardsertext svg{
+    resize: none;
+} 
 .bgcard{
     width: 50%;
     object-fit: cover;
@@ -331,7 +335,6 @@ small{
 .cardtext{
     display: flex;
     flex-direction: column;
-    padding-top: 200px;
     gap: 20px;
     padding-left: 24px;
     padding-bottom: 24px;
@@ -897,7 +900,7 @@ small{
 .contentcard li svg{
     min-width: 20px;    
 }
-
+.vetorcard{display: none;}
 a{
     color: inherit;
     text-decoration: none;
@@ -923,6 +926,9 @@ a{
     }
 }
 @media screen and (max-width:890px) {
+    .missioncontainer{
+        padding-bottom: 30px;
+    }
     .poster{
         flex-direction: column;
         padding: 0;
@@ -955,10 +961,6 @@ a{
         line-height: 90%;
         font-size: 36px;
     }
-    .vetorvideocontainer p{
-        top: 220px;
-        width: 100%;
-    }
     .vetorvideocontainer svg{
         top: 280px;
     }
@@ -969,12 +971,6 @@ a{
         width: auto;
         margin: auto;
     }   
-    .cardtext{
-        padding-top: 100px;
-        
-        padding-left: 16px;
-        padding-bottom: 16px;
-    }
     .vetorcontainer{
         max-width: 400px;
         display: flex;
@@ -1048,6 +1044,7 @@ a{
         text-align: center;
         max-width: 356px;
         margin: auto;
+        margin-bottom: 20px;
     }
     .contacttitle h2{
         width: 100%;
@@ -1112,15 +1109,21 @@ a{
     }
 }
 @media screen and (max-width:590px) {
+    .missioncard h5{
+        max-width: 230px;
+    }
     .servicescard{
         width: 375px;
         height: 304px;
     }
+    .cardtext{
+        padding-left: 16px;
+    }
     .carda{
         width: 375px;
     }
-    .carda p{
-        max-width: 47%;
+    .carda p, .carda h2{
+        max-width:160px;
         line-height: 110%;
     }
     .vetorcard{

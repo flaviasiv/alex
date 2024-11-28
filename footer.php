@@ -124,10 +124,10 @@ footer ul{
     list-style: none;
 }
 .footer-credits ul li a{
-    color: #78C2DD;
+    color: #fff;
 }
 .footer-credits p, .footer-credits ul li{
-    color: #78C2DD;
+    color: #fff;
     font-size: 14.4px;
     font-weight: 300;
     line-height: 150%;
@@ -157,7 +157,6 @@ footer a:hover, footer a:hover svg{
     }
     .footergrid div{
         padding: 20px 0;
-        border-top: 1px solid #89DBC9;
         width: 100%;
     }
     .address ul li{

@@ -8,7 +8,7 @@
     <title><?php bloginfo( 'name' ); ?> - <?php bloginfo( 'description' ); ?></title>
     <?php wp_head(); ?> <!-- Essa função é necessária para carregar scripts e estilos do WordPress e plugins -->
     <style>
-    header {
+  header {
   position: relative;
   display:flex;
   justify-content: space-between;
@@ -50,7 +50,7 @@
   max-width: 1100px;
   margin: auto;
   border-radius: 10px;
-  background: #021227;
+  background: #fff;
   backdrop-filter: blur(14.149999618530273px);
   padding: 0 30px 0 30px;
   height: 80px;
@@ -59,9 +59,9 @@
   z-index: 9;
 } 
 .nonebar{
-  display: flex;
   position: relative;
-  background-color: transparent;
+  justify-content: center;
+  align-items: center;
   width:160px;
 }
 .menu-links{
@@ -84,7 +84,7 @@
 .menu-linksbtn a {
   display:block;
   text-align: center;
-  color:#ffffff70;
+  color:#021227;
   text-decoration:none;
   font-family: 'Poppins';
   font-size: 13.724px;
@@ -92,8 +92,8 @@
   line-height: 120%;
 }
 .menu-linksbtn a:hover{
-  color:#ffffff90;
-  transition: 0.2s ease-in-out;
+  font-weight: 800;
+  transition: 0.15s ease-in-out;
 }
 .menusocial{
   right: 0;
@@ -152,13 +152,10 @@ color: #fff;
 }
 .btn-toggle{display: none;}
 .logo-m{
-z-index: 9;
 display:block;
 width: 70px;
-top: -35px;
-left: 0;
-border-radius: 100%;
-position: absolute;
+border-radius: 50%;
+margin: auto;
 }
 .logow, .callm{display: none;}
 @media only screen and (max-width: 1100px) {

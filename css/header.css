@@ -1,3 +1,4 @@
+
 header {
   position: relative;
   display:flex;
@@ -274,7 +275,8 @@ display:flex;
     display:flex
 }
 .navbar {
-  padding:0px 0px;    
+  top: 0;
+  padding:0;    
   margin-top: 0;
   backdrop-filter: none;
   border-radius: 0;
@@ -286,18 +288,4 @@ max-width: 1400px;
 text-align: right;
 align-items: end;
 }   
-}
-/* Exemplo básico de estilo responsivo para o menu */
-@media (max-width: 768px) {
- .main-navigation {
-     display: none;
- }
- 
- .menu-toggle {
-     display: block; /* Botão de toggle para dispositivos móveis */
- }
-
- .menu-toggle.active + .main-navigation {
-     display: block; /* Exibe o menu quando o botão for clicado */
- }
 }

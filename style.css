@@ -89,7 +89,7 @@ small{
     display: block;
     top: 0;
     left: 0;
-    background: linear-gradient(100deg, rgba(2, 18, 39, 0.80) 0%, rgba(4, 107, 85, 0.80) 100%)  no-repeat;    
+    background: linear-gradient(0deg, rgba(2, 18, 39, 0.80) 0%, rgba(2, 18, 39, 0.80) 100%) no-repeat;    
     width:100%;
     height: 700px;
     z-index: 1;
@@ -117,13 +117,13 @@ small{
 }
 .btnestimate{
     border-radius: 9.372px;
-    border: 1.171px solid #021227;
-    background: #FFF;
+    border: 1.171px solid #fff;
+    background: #021227;
     margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #021227;
+    color: #fff;
     gap: 8px;
     padding: 20px 24px;
     cursor: pointer;
@@ -136,25 +136,25 @@ small{
     align-items: center;
     gap: 8px;
     text-decoration: none;
-    color: #021227;
+    color: #fff;
     font-size: 18.744px;
     font-weight: 700;
     line-height: 120%
 }
 .btnestimate svg{
-    fill: #021227;
+    fill: #fff;
 }
 .btnestimate:hover{
-    background-color: #021227;
+    background-color: #fff;
     transform: scale(1.05);
     transition: 0.2s;
-    border: 1.171px solid #fff;
+    border: 1.171px solid #021227;
 }
 .btnestimate:hover a{
-    color: #fff;
+    color: #021227;
 }
 .btnestimate:hover svg{
-    fill: #fff;
+    fill: #021227;
 }
 .vetorsocialcontainer{
     display: flex;
@@ -179,7 +179,8 @@ small{
 }
 .vetorcontainer{
     max-width: 900px;
-    background-color: #021227;
+    background-color: #fff;
+    color: #021227;
     display: flex;
     margin: auto;
     padding: 16px 64px;
@@ -309,8 +310,6 @@ small{
     width: 535px;
     height: 444px;
 }
-.vetorcard{
-}
 .carda{
     display: flex;
     background: linear-gradient(150deg, #021227 0%, #046B55 99.94%);
@@ -389,7 +388,7 @@ small{
 .preferencecontainer{
     display: flex;
     justify-content: center;
-    background: url(https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/prefebg.png) no-repeat;
+    background: url(https://alexcleaningoh.com/wp-content/uploads/2024/11/prefebg.png) no-repeat;
     background-position: 100%;
     background-size: cover;
     padding: 100px 0;
@@ -630,7 +629,7 @@ small{
 .contactcontainer{
     display: flex;
     flex-direction: column;
-    background: url(https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/contactbg.png) no-repeat;
+    background: url(https://alexcleaningoh.com/wp-content/uploads/2024/11/contactbg.png) no-repeat;
     background-position: 100%;
 	background-position:center;
     background-position-y: bottom;
@@ -674,15 +673,23 @@ small{
 }
 #forminator-module-63{
 	color: #000;
-	font-family: Urbanist;
+	font-family: 'Urbanist';
     font-size: 14.067px;
     font-weight: 400;
     line-height: 150%; 
 	border-radius:24px;
+    max-width: 740px;
 }
 #forminator-module-63 .btnsubmit{
+    display:block;
 	border-radius:9px;
-	border: 1px solid #000
+	border: 1px solid #000;
+	max-width:100px;
+    margin: auto !important;
+}
+.textarea{
+	width:100%;
+	resize:none;
 }
 
 #forminator-module-63 .btnsubmit:hover{
@@ -699,10 +706,11 @@ small{
     align-items: center;
     color: #021227;
 }
-.mapimg{
+.areascontainer iframe{
     width: 100%;
     max-width: 1000px;
-    margin: auto;
+    height: 274px;
+    border-radius: 16px;
 }
 .mapsgrid{
     display: flex;
@@ -782,6 +790,10 @@ small{
     background-color: #fff;
     align-items: center;
 }
+.contentservices{
+    border-bottom: 1px solid #046B55;
+    padding-bottom: 30px;
+}
 .contentservices, .contentgrid{
     display: flex;
     align-items: center;
@@ -802,20 +814,14 @@ small{
     font-weight: 400;
     line-height: 80%; 
 }
-
-
-/* VETOR ARRUMAR */
-
-
-/* .vetor3{
-    position: absolute;
-    display: flex;
+.vetor3{
+    display: none;
+}
+.contentservices img{
     width: 100%;
-    height: 2px;
-    top: 450px;
-    z-index: 5;
-    background-color: #046B55;
-} */
+    max-width: 640px;
+    object-fit: cover;
+}
 .content .btnestimate{
     margin-left: 0;
     margin-top: 0;
@@ -827,6 +833,9 @@ small{
     flex-wrap: wrap;
     padding-bottom: 40px;
 }
+.gridpost{
+    max-width: 980px;
+}
 .content p{
     color: var(--Color-Brand-main, #021227);
     text-align: center;
@@ -835,20 +844,7 @@ small{
     font-size: 18px;
     font-weight: 400;
     line-height: 150%; 
-    padding: 50px 0;
-}
-.content-auto{
-    max-width: 540px;
-}
-.content-post{
-    max-width: 840px;
-}
-.content-garage{
-    max-width: 100%;
-    justify-content: center;
-}
-.content-move{
-    max-width: 1100px;
+    padding:30px 0 50px 0;
 }
 .contentgrid{
     padding-top: 80px;
@@ -873,9 +869,12 @@ small{
     font-size: 32px;
     font-weight: 700;
     line-height: 100%;
-    white-space: nowrap;
+    white-space: wrap;
     text-transform: uppercase;
     text-align: center;
+}
+.gridpost .contentcard h2{
+    font-size: 28px;
 }
 .content-post .contentcard h2, .content-up .contentcard h2{
     letter-spacing: 4px;
@@ -899,7 +898,11 @@ small{
     min-width: 20px;    
 }
 
-@media screen and (max-width:1100px) {
+a{
+    color: inherit;
+    text-decoration: none;
+}
+@media screen and (max-width:1150px) {
     .aboutcontainer, .servicescontainer, .missioncontainer, .gallerygrid, .areascontainer {
         padding-left: 10px;
         padding-right: 10px;
@@ -914,6 +917,10 @@ small{
     .vetorvideocontainer h2{
         white-space: nowrap;
     }
+    .contentservices img{
+        max-width: 400px;
+        padding-right: 5%;
+    }
 }
 @media screen and (max-width:890px) {
     .poster{
@@ -921,24 +928,25 @@ small{
         padding: 0;
     }
     .posterinfos small{
-        font-size: 20.1px;
+        font-size: 18px;
     }
     .posterinfos h1{
-        font-size: 110px;
+        font-size: 80px;
     }
     .logo-poster{
-        max-width: 344px;
+        max-width: 274px;
         margin-top: 100px;
     }
     .postercontainer video{
         z-index: 1;
-        height: 975px;
+        height: 835px;
     }
     .overlay {
-        height: 975px;
+        height: 835px;
     }
     .vetorsocialcontainer{
-        margin-top: -50px;
+        margin-top: -186px;
+        height: 90px;
     }
     .vetorvideocontainer h2{
         white-space: wrap;
@@ -969,7 +977,6 @@ small{
     }
     .vetorcontainer{
         max-width: 400px;
-        background-color: #021227;
         display: flex;
         margin: auto;
         border-radius: 1080px;
@@ -1030,7 +1037,7 @@ small{
         gap: 3px;
     }
     .contactcontainer{
-        background: url(https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/contactbg-m.png) no-repeat;
+        background: url(https://alexcleaningoh.com/wp-content/uploads/2024/11/contactbg-m.png) no-repeat;
         background-position: 100%;
         background-position-y: bottom;
         background-size: 100%;
@@ -1047,7 +1054,7 @@ small{
         font-weight: 400;
         line-height: 90%;
     }
-    .mapimg{
+    .areascontainer iframe{
         max-width: 390px;
         height: 274px;
         object-fit: cover;
@@ -1071,6 +1078,10 @@ small{
         text-align: center;
         gap: 30px;
     }
+    .contentservices img{
+        max-width: 100%;
+        padding: 0 1%;
+    }
     .contenttitle svg{
         margin: auto;
     }
@@ -1092,5 +1103,27 @@ small{
     }
     .reviewstitle h2{
         font-size: 36px;
+    }
+    .contentservices img{
+        width: 100%;
+    }
+    .contentcard{
+        margin: auto;
+    }
+}
+@media screen and (max-width:590px) {
+    .servicescard{
+        width: 375px;
+        height: 304px;
+    }
+    .carda{
+        width: 375px;
+    }
+    .carda p{
+        max-width: 47%;
+        line-height: 110%;
+    }
+    .vetorcard{
+        width: 90%;
     }
 }

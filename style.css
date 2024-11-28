@@ -1,0 +1,1096 @@
+/*
+Theme Name: Alex
+Theme URI: http://alexcleaningoh-com.preview-domain.com/alex
+Author: Flaviasig
+Author URI: https://flaviasiv.github.io/Portifolio-Flavia-Sigoli/
+Description: Um tema simples para WordPress.
+Version: 1.0
+*/
+@font-face {
+    font-family: 'Glacial Indifference';
+    src: url("assets/fonts/GlacialIndifference-Regular.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Glacial Indifference Bold';
+    src: url("assets/fonts/GlacialIndifference-Bold.otf");;
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Glacial Indifference Italic';
+    src: url("assets/fonts/GlacialIndifference-Italic.otf");
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    background: white;
+    color: #fff;
+}
+body{
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html{
+    scroll-behavior: smooth;
+}
+.container{
+    position: relative;
+    width:100%;
+    max-width:100vw;
+    margin: auto;
+}
+:root {
+    --swiper-navigation-color: #eee;
+    --swiper-pagination-color: #021227;
+    --swiper-pagination-bullet-width: 10px;
+    --swiper-pagination-bullet-height: 10px;
+    --scroll: 0
+}
+swiper-container{
+    width: 100%;
+    height: 100%;
+}
+small{
+    font-family: 'Inter';
+    font-size: 21.087px;
+    font-weight: 600;
+    line-height: 150%;
+}
+.poster{
+    display: flex;
+    width: 100%;
+    max-width: 900px;
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+    padding: 150px 0 0;
+}
+.postercontainer{
+    height: 930px;
+}
+.postercontainer video, .vetorvideocontainer video{
+    position: absolute;
+    display: block;
+    width: 100%;    
+    max-width: 100vw;
+    height: 780px;
+    z-index:0;
+    left: 0;
+    object-fit: cover;
+}
+.overlay {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    background: linear-gradient(100deg, rgba(2, 18, 39, 0.80) 0%, rgba(4, 107, 85, 0.80) 100%)  no-repeat;    
+    width:100%;
+    height: 700px;
+    z-index: 1;
+}
+.posterinfos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    z-index: 2;
+    gap: 30px;
+}
+.logo-poster{
+    max-width: 244px;
+    z-index: 3;
+}
+.posterinfos small{
+    text-transform: uppercase;
+}
+.posterinfos h1{
+    font-family: "Glacial Indifference";
+    font-size: 112.464px;
+    font-weight: 400;
+    line-height: 80%;
+}
+.btnestimate{
+    border-radius: 9.372px;
+    border: 1.171px solid #021227;
+    background: #FFF;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #021227;
+    gap: 8px;
+    padding: 20px 24px;
+    cursor: pointer;
+    white-space: nowrap;
+    margin-top: 30px;
+}
+.btnestimate a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    color: #021227;
+    font-size: 18.744px;
+    font-weight: 700;
+    line-height: 120%
+}
+.btnestimate svg{
+    fill: #021227;
+}
+.btnestimate:hover{
+    background-color: #021227;
+    transform: scale(1.05);
+    transition: 0.2s;
+    border: 1.171px solid #fff;
+}
+.btnestimate:hover a{
+    color: #fff;
+}
+.btnestimate:hover svg{
+    fill: #fff;
+}
+.vetorsocialcontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -330px;
+    z-index: 8;
+    /* height to none */
+    height: 100px;
+}
+.socials ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+.socials ul svg{
+    fill: #021227;
+}
+.socials ul a:hover svg{
+    fill: #046B55;
+    transition: 0.1s;
+}
+.vetorcontainer{
+    max-width: 900px;
+    background-color: #021227;
+    display: flex;
+    margin: auto;
+    padding: 16px 64px;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+    border-radius: 1080px;
+}
+.vetorcontainer ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    gap: 40px;
+}
+.vetorcontainer li{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    max-width: 100px;
+}
+.vetorcontainer li img{
+    width: 100%;
+    max-width: 45px;
+    margin: auto;
+}
+.vetorcontainer li p{
+    font-family: 'Inter';
+    font-size: 12px;
+    font-weight: 800;
+    line-height: 120%;
+}
+.vetorvideocontainer .overlay{
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.50) 0%, rgba(255, 255, 255, 0.50) 100%) no-repeat;
+    height: 402px;
+}
+.vetorvideocontainer video{
+    height: 400px;
+    top: 0;
+}
+.vetorvideocontainer {
+    padding-bottom: 400px;
+}
+.vetorvideocontainer h2{
+    position: absolute;
+    z-index: 99;
+    color: var(--Color-Brand-main, #021227);
+    text-align: center;
+    font-family: "Glacial Indifference";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 120%;
+    left: 50%;
+    top: 150px;
+    transform: translateX(-50%);
+}
+.vetorvideocontainer p{
+    position: absolute;
+    z-index: 99;
+    color: var(--Color-Brand-main, #021227);
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 21.087px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    left: 50%;
+    top: 220px;
+    transform: translateX(-50%);
+}
+.vetorvideocontainer svg{
+    position: absolute;
+    z-index: 99;
+    left: 50%;
+    top: 270px;
+    transform: translateX(-50%);
+}
+.servicescontainer{
+    padding: 100px 0;
+    background-color: #021227;
+}
+.services{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1100px;
+    margin: auto;
+    align-items: end;
+    justify-content: right;
+}
+.servicestitle{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 400px;
+    margin-right: 0;
+    padding-bottom: 30px;
+    gap: 24px;    
+    border-bottom: 1px solid #325B92;
+}
+.servicestitle small{
+    color: #325B92;
+}
+.servicestitle p{
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+.servicesgrid{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1090px;
+    margin: auto;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 50px 0;
+}
+.servicesgrid .servicescard img:hover{
+    transition: 0.1s;
+}
+.servicescard{
+    position: relative;
+    display: flex;
+    gap: 24px;
+    width: 535px;
+    height: 444px;
+}
+.vetorcard{
+}
+.carda{
+    display: flex;
+    background: linear-gradient(150deg, #021227 0%, #046B55 99.94%);
+    justify-content: space-between;
+    border-radius: 16px;
+    width: 535px;
+}
+.carda:hover{
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+.bgcard{
+    width: 50%;
+    object-fit: cover;
+    align-items: end;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+.cardtext{
+    display: flex;
+    flex-direction: column;
+    padding-top: 200px;
+    gap: 20px;
+    padding-left: 24px;
+    padding-bottom: 24px;
+}
+.cardsertext{
+    position: absolute;
+    bottom:24px;
+}
+.cardtext h2{
+    position: absolute;
+    top: 10px;
+    color: var(--Text-alternate, #FFF);
+    font-family: "Glacial Indifference";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 100%; 
+    width: 213.715px;
+}
+.cardtext p{
+    font-family: 'Inter';
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 200%;
+    color: #AAA;
+    max-width: 220px;
+}
+.btnservices{
+    display: flex;
+    height: 48.751px;
+    padding: 18.75px 22.5px;
+    justify-content: center;
+    align-items: center;
+    gap: 7.5px;
+    border-radius: 7.5px;
+    border: 0.938px solid #FFF;
+    background-color: transparent;
+    margin: auto;
+    margin-top: 20px;
+    color: #fff;
+    align-items: center;
+    margin-left: 0;
+    cursor: pointer;
+}
+.btnservices svg{
+    fill: #fff;
+}
+.btnservices:hover{
+    background-color: #021227;
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+.gridmobile{display: none;}
+
+.preferencecontainer{
+    display: flex;
+    justify-content: center;
+    background: url(https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/prefebg.png) no-repeat;
+    background-position: 100%;
+    background-size: cover;
+    padding: 100px 0;
+}
+.preferenceinfo h2 {
+    color: var(--Color-Neutral-white, #FFF);
+    font-family: "Glacial Indifference";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 120%;
+    }
+.preferenceinfo p{
+    color: var(--Color-Neutral-white, #FFF);
+    font-size: 21.087px;
+    font-weight: 600;
+    line-height: 150%;
+    padding: 20px 0 40px;
+}
+.preferenceinfo{
+    text-align: center;
+}
+.preferencegrid{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.preferencecard{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    max-width: 170px;
+}
+.preferencecard h5{
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 100%
+}
+.aboutcontainer{
+    background: url(https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/aboutbg.png) no-repeat;
+    background-position: 100%;
+    background-size: cover;
+    padding: 100px 0;
+    color: #021227;
+}
+.about{
+    display: flex;
+    max-width: 1100px;
+    margin: auto;
+    justify-content: space-between;
+}
+.ownerimg{
+    width: 500px;
+    object-fit: cover;
+    border-radius: 16px;
+}
+.ownerimg:hover{
+    transform: scale(1.05);
+    box-shadow: #02122790 0px 10px 36px 0px, #02122740 0px 0px 0px 0.2px;
+    transition: 0.2s;
+}
+.abouttitle h2{
+    font-family: "Glacial Indifference";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 120%; 
+    margin-bottom: 30px;
+}
+.aboutinfos{
+    width: 470px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;    
+    justify-content: center;
+}
+.aboutinfos small{
+    text-transform: uppercase;
+}
+.aboutinfos p{
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #325B92;
+}
+
+.missioncontainer, .reviewscontainer{
+    display: flex;
+    flex-direction: column;
+    background: url(https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/missionbg.png) no-repeat;
+    background-position: 100%;
+    background-size: cover;
+    background-color: #021227;
+    padding: 0 0 100px 0;
+}
+.missionlogo{
+    max-width: 480px;
+    margin: auto;
+    margin-top: -150px;
+}
+.missiontitle{
+    display: flex;
+    flex-direction: column;
+    width: 433.895px;
+    margin: auto;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 30px;
+    gap: 24px;    
+    text-align: center;
+}
+.missiontitle h2{    
+    font-family: "Glacial Indifference";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 120%; 
+}
+.missiongrid{
+    display: flex;
+    gap: 10px;
+    max-width: 1080px;
+    flex-wrap: wrap;
+    margin: auto;
+    align-items: center;
+    padding-top: 40px;
+}
+.missioncard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    width: 535px;
+    height: 120px;
+    border-radius: 8px;
+    border: 2px solid var(--Color-Brand-main, #021227);
+    background-color: #FFF;
+    color:#021227;
+}
+.missioncard:hover{
+    transform: scale(0.98);
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -6px -6px 6px 1px inset;
+}
+.missioncard h5{
+    color: var(--Color-Brand-main, #021227);
+    font-family: "Glacial Indifference bold";
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 100%;
+    text-transform: uppercase;
+    max-width: 396px;
+    text-align: center;
+}
+.gallerycontainer{
+    background-color: #021227;
+    padding: 24px 0 150px;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.gallerygrid{
+    display: flex;
+    justify-content: center;
+    max-width: 1100px;
+    margin: auto;
+    padding-top: 40px;
+    gap: 10px;
+}
+.gallerycard{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.gallerycard img{
+    width: 100%;
+    width: 340px;
+}
+.cardm-t{
+    padding-top: 20px;
+}
+.reviewscontainer{
+    padding: 100px 0;
+}
+.reviewstitle h2{
+    color: var(--Text-alternate, #FFF);
+    font-family: "Glacial Indifference";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 120%;
+}
+.reviewstitle{
+    max-width: 412px;
+    margin: auto;
+    text-align: center;
+}
+/* IG CONTAINER */
+.ig-embed{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    max-width: 1300px;
+    margin: auto;
+    padding: 80px 0 30px;
+    color: #000;
+    text-align: center;
+}
+.igtitle h2{
+    color: var(--Color-Brand-main, #021227);
+    font-family: "Glacial Indifference";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 120%; /* 57.6px */
+}
+.ig-embed iframe{
+    display: flex;
+    width:100%;
+    max-width: 900px; 
+    height: 850px;
+    margin: auto;
+}
+@media screen and (max-width:980px) {
+    .ig-embed iframe{
+        max-width: 500px; 
+        max-height: 500px;
+    }    
+}
+@media screen and (max-width:580px) {
+    .reviewscontainer{margin-top: -1px;}
+    .ig-embed iframe{
+        width:100%;
+        max-width: 400px; 
+        max-height: 450px;
+    }    
+}
+.contactcontainer{
+    display: flex;
+    flex-direction: column;
+    background: url(https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/contactbg.png) no-repeat;
+    background-position: 100%;
+	background-position:center;
+    background-position-y: bottom;
+    background-size: 150%;
+    background-color: #021227;
+    padding: 50px 0 200px;
+	height:100%;
+}
+.contact{
+    display: flex;
+    width: 100%;
+    max-width: 740px;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+	height:100%;
+}
+.contact img{
+    width: 210px
+}
+.contacttitle{
+    max-width: 492px;
+}
+.contacttitle h2{
+    width: 492px;
+    color: var(--Text-alternate, #FFF);
+    font-family: "Glacial Indifference";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 120%; 
+}
+
+.form{
+	width:100%;
+	max-width:750px;
+	margin:auto;
+	background-color: #f4f4f4;
+	padding:24px;
+	border-radius:24px;	
+	height:100%;
+}
+#forminator-module-63{
+	color: #000;
+	font-family: Urbanist;
+    font-size: 14.067px;
+    font-weight: 400;
+    line-height: 150%; 
+	border-radius:24px;
+}
+#forminator-module-63 .btnsubmit{
+	border-radius:9px;
+	border: 1px solid #000
+}
+
+#forminator-module-63 .btnsubmit:hover{
+	background-color: #021227;
+	color:#fff;
+	border: 1px solid #fff;
+}
+.forminator-ui#forminator-module-63.forminator-design--default .forminator-button-submit:hover{
+	color:#fff;
+}
+.areascontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #021227;
+}
+.mapimg{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+}
+.mapsgrid{
+    display: flex;
+    width: 100%;
+    max-width: 850px;
+    margin: auto;
+    padding: 50px 0;
+    justify-content: space-between;
+}
+.areastitle{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 300px;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+.areastitle h2{
+    font-family: "Glacial Indifference bold";
+    font-size: 18px;
+    line-height: 100%;
+    text-transform: uppercase;
+}
+.btngoogle{
+    background-color: #000;
+    margin: 0 auto;
+}
+.btngoogle a{
+    color: #fff;
+}
+.listareas {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 30px;
+    text-align: left;
+    font-family: 'Poppins';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 190%;
+}
+.listareas ul li{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.listareas ul li:before {
+    content:"·";
+    font-size:25px;
+    margin-right: 5px;
+}
+.areas h2{
+    font-family: "Glacial Indifference";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 100%; /* 18px */
+    text-transform: uppercase;
+    text-align: center;
+}
+.areas {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.border{
+    width: 2px;
+    background-color: #046B55
+}
+
+
+
+/* pages style */
+.content{
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    align-items: center;
+}
+.contentservices, .contentgrid{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    padding-top: 150px;
+}
+.contenttitle{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+.contenttitle h2{
+    color: #021227;
+    font-family: "Glacial Indifference";
+    font-size: 96px;
+    font-weight: 400;
+    line-height: 80%; 
+}
+
+
+/* VETOR ARRUMAR */
+
+
+/* .vetor3{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 2px;
+    top: 450px;
+    z-index: 5;
+    background-color: #046B55;
+} */
+.content .btnestimate{
+    margin-left: 0;
+    margin-top: 0;
+}
+.contentgrid{
+    flex-direction: row;
+    max-width: 642px;
+    row-gap: 16px;
+    flex-wrap: wrap;
+    padding-bottom: 40px;
+}
+.content p{
+    color: var(--Color-Brand-main, #021227);
+    text-align: center;
+    max-width: 800px;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%; 
+    padding: 50px 0;
+}
+.content-auto{
+    max-width: 540px;
+}
+.content-post{
+    max-width: 840px;
+}
+.content-garage{
+    max-width: 100%;
+    justify-content: center;
+}
+.content-move{
+    max-width: 1100px;
+}
+.contentgrid{
+    padding-top: 80px;
+}
+.contentcard{
+    border-radius: 20px;
+    border: 2px solid #046B55;
+    display: flex;
+    width:313px;
+    height: 411px;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    padding: 30px 24px 0;
+}
+.contentcard h2{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #021227;
+    font-family: "Glacial Indifference";
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 100%;
+    white-space: nowrap;
+    text-transform: uppercase;
+    text-align: center;
+}
+.content-post .contentcard h2, .content-up .contentcard h2{
+    letter-spacing: 4px;
+}
+.contentcard ul{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.contentcard li{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #021227;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 150%
+}
+.contentcard li svg{
+    min-width: 20px;    
+}
+
+@media screen and (max-width:1100px) {
+    .aboutcontainer, .servicescontainer, .missioncontainer, .gallerygrid, .areascontainer {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .servicesgrid, .missiongrid {
+        justify-content: center;
+        align-items: center;
+    }
+    .contact{
+        flex-direction: column;
+    }
+    .vetorvideocontainer h2{
+        white-space: nowrap;
+    }
+}
+@media screen and (max-width:890px) {
+    .poster{
+        flex-direction: column;
+        padding: 0;
+    }
+    .posterinfos small{
+        font-size: 20.1px;
+    }
+    .posterinfos h1{
+        font-size: 110px;
+    }
+    .logo-poster{
+        max-width: 344px;
+        margin-top: 100px;
+    }
+    .postercontainer video{
+        z-index: 1;
+        height: 975px;
+    }
+    .overlay {
+        height: 975px;
+    }
+    .vetorsocialcontainer{
+        margin-top: -50px;
+    }
+    .vetorvideocontainer h2{
+        white-space: wrap;
+        top: 120px;
+        width: 100%;
+        line-height: 90%;
+        font-size: 36px;
+    }
+    .vetorvideocontainer p{
+        top: 220px;
+        width: 100%;
+    }
+    .vetorvideocontainer svg{
+        top: 280px;
+    }
+    .servicesgrid{
+        justify-content: center;
+    }
+    .servicescard{
+        width: auto;
+        margin: auto;
+    }   
+    .cardtext{
+        padding-top: 100px;
+        
+        padding-left: 16px;
+        padding-bottom: 16px;
+    }
+    .vetorcontainer{
+        max-width: 400px;
+        background-color: #021227;
+        display: flex;
+        margin: auto;
+        border-radius: 1080px;
+
+        display: inline-flex;
+        padding: 13.655px 34.138px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 6.828px;
+    }
+    .vetorcontainer ul{
+        display: flex;
+        list-style: none;
+        justify-content: space-between;
+        gap: 0px;
+    }
+    .vetorcontainer li p{
+        font-size: 10px;
+    }
+    .preferencegrid{
+        flex-direction: column;
+        gap: 24px;
+    }
+    .about{
+        flex-direction: column;
+    }
+    .aboutinfos{
+        padding-top: 50px;
+        width: 100%;
+    }
+    .abouttitle h2{
+        margin: 0;
+    }
+    .missionlogo, .abouttitle img{
+        width: 100%;
+        max-width: 400px;
+        margin-top: 50px;
+        object-fit: cover;
+    }
+    .missiontitle{
+        width: 100%;
+    }
+    .missiontitle p{
+        max-width: 324px;
+        margin: auto;
+    }
+    .missioncard{
+        width: 100%;
+    }
+    .missioncard h5{
+        font-size: 22px;
+        max-width: 286px;
+    }
+    .gallerycard img{
+        max-width: 100%;
+    }
+    .gallerygrid, .gallerycard{
+        gap: 3px;
+    }
+    .contactcontainer{
+        background: url(https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/contactbg-m.png) no-repeat;
+        background-position: 100%;
+        background-position-y: bottom;
+        background-size: 100%;
+			padding-left:10px;
+			padding-right:10px
+    }
+    .contacttitle{
+        text-align: center;
+        max-width: 356px;
+        margin: auto;
+    }
+    .contacttitle h2{
+        width: 100%;
+        font-weight: 400;
+        line-height: 90%;
+    }
+    .mapimg{
+        max-width: 390px;
+        height: 274px;
+        object-fit: cover;
+    }
+    .mapsgrid{
+        flex-direction: column;
+    }
+    .border{
+        width: 100%;
+        height: 2px;
+        background-color: #046B55
+    }
+    .mapsgrid{
+        gap: 50px;
+    }
+    .areastitle{
+        margin: auto;
+    }    
+    .contentservices{
+        flex-direction: column;
+        text-align: center;
+        gap: 30px;
+    }
+    .contenttitle svg{
+        margin: auto;
+    }
+    .contenttitle h2{
+        font-size: 48px;
+        line-height: 90%; 
+    }
+    .content .btnestimate{
+        margin: auto;
+    }
+    .vetor3{
+        top:930px;
+    }
+    .content p{
+        padding: 70px 10px 30px;
+    }
+    .contentgrid{
+        padding-top: 50px;
+    }
+    .reviewstitle h2{
+        font-size: 36px;
+    }
+}

@@ -27,50 +27,6 @@ Template Name: custom
                 <div class="gallerycard cardm-t"><img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/Gallery3.png" alt=""><img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/Gallery4.png" alt=""></div>
                 <div class="gallerycard"><img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/Gallery5.png" alt=""><img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/Gallery6.png" alt=""></div>
               </div>
-              <!-- <div class="gallerygrid gallerygridm">
-                <swiper-container class="mySwiper2 aos-fade" pagination="true" pagination-clickable="true" space-between="10" slides-per-view="auto" loop="true" navigation="true" autoplay-delay="4000" pagination-dynamic-bullets="true">
-                  <swiper-slide class="swiper2">
-                    <div>
-                      <img src="" alt="">
-                    </div>
-                  </swiper-slide>
-                  <swiper-slide class="swiper2">
-                    <div>
-                      <img src="" alt="">
-                    </div>
-                  </swiper-slide>
-                  <swiper-slide class="swiper2">
-                    <div>
-                      <img src="" alt="">
-                    </div>
-                  </swiper-slide>
-                  <swiper-slide class="swiper2">
-                    <div>
-                      <img src="" alt="">
-                    </div>
-                  </swiper-slide>
-                  <swiper-slide class="swiper2">
-                    <div>
-                      <img src="" alt="">
-                    </div>
-                  </swiper-slide>
-                  <swiper-slide class="swiper2">
-                    <div>
-                      <img src="" alt="">
-                    </div>
-                  </swiper-slide>
-                  <swiper-slide class="swiper2">
-                    <div>
-                      <img src="" alt="">
-                    </div>
-                  </swiper-slide>
-                  <swiper-slide class="swiper2">
-                    <div>
-                      <img src="" alt="">
-                    </div>
-                  </swiper-slide>
-                </swiper-container>              
-              </div> -->
           </div>
           <div class="reviewscontainer container" id="reviews">
             <div class="reviewstitle aos-fade">

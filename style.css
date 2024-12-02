@@ -569,6 +569,10 @@ small{
 .gallerycard img{
     width: 100%;
     width: 340px;
+    height: 453px;
+    object-fit: cover;
+    border-radius: 16px;
+    object-position: center;
 }
 .cardm-t{
     padding-top: 20px;
@@ -633,12 +637,11 @@ small{
     display: flex;
     flex-direction: column;
     background: url(https://alexcleaningoh.com/wp-content/uploads/2024/11/contactbg.png) no-repeat;
-    background-position: 100%;
 	background-position:center;
     background-position-y: bottom;
-    background-size: 150%;
+    background-size: 100%;
     background-color: #021227;
-    padding: 50px 0 200px;
+    padding: 50px 0 250px;
 	height:100%;
 }
 .contact{
@@ -714,6 +717,7 @@ small{
     max-width: 1000px;
     height: 274px;
     border-radius: 16px;
+    margin-top: -20px;
 }
 .mapsgrid{
     display: flex;
@@ -925,9 +929,16 @@ a{
         padding-right: 5%;
     }
 }
+@media screen and (max-width:1000px) {
+    .gallerycard img{
+        max-width: 100%;
+        height: 350px;
+    }
+}
 @media screen and (max-width:890px) {
-    .missioncontainer{
-        padding-bottom: 30px;
+    .aboutcontainer, .servicescontainer, .missioncontainer, .areascontainer, .reviewscontainer, .preferencecontainer {
+        padding-top: 50px;
+        padding-bottom: 50px;
     }
     .poster{
         flex-direction: column;
@@ -1012,6 +1023,9 @@ a{
         margin-top: 50px;
         object-fit: cover;
     }
+    .missionlogo{
+        margin-top: 0;
+    }
     .missiontitle{
         width: 100%;
     }
@@ -1026,19 +1040,22 @@ a{
         font-size: 22px;
         max-width: 286px;
     }
+    .gallerycontainer{
+        padding-bottom: 80px;
+    }
     .gallerycard img{
         max-width: 100%;
+        height: 250px;
     }
     .gallerygrid, .gallerycard{
         gap: 3px;
     }
     .contactcontainer{
         background: url(https://alexcleaningoh.com/wp-content/uploads/2024/11/contactbg-m.png) no-repeat;
-        background-position: 100%;
+        background-position: center;
         background-position-y: bottom;
-        background-size: 100%;
-			padding-left:10px;
-			padding-right:10px
+        background-size: 120%;
+        padding: 50px 10px 200px;
     }
     .contacttitle{
         text-align: center;
@@ -1055,6 +1072,7 @@ a{
         max-width: 390px;
         height: 274px;
         object-fit: cover;
+        margin-top: 0;
     }
     .mapsgrid{
         flex-direction: column;
@@ -1125,6 +1143,9 @@ a{
     .carda p, .carda h2{
         max-width:160px;
         line-height: 110%;
+    }
+    .carda h2{
+        font-size: 23px;
     }
     .vetorcard{
         width: 90%;

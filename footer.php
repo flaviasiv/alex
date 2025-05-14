@@ -249,9 +249,9 @@ footer a:hover, footer a:hover svg{
     <div class="footer-credits">
         <p>&copy; <?php echo date('Y'); ?> <?php bloginfo( 'name' ); ?>. All rights reserved.</p>
         <ul>
-            <li><a href="#">Privacy Policy</a></li>
-            <li><a href="#">Terms of Service</a></li>
-            <li><a href="#">Cookies Settings</a></li>
+            <li><a href="https://alexcleaningoh.com/privacy-policy-2/">Privacy Policy</a></li>
+            <li><a href="https://alexcleaningoh.com/terms-and-conditions/">Terms of Service</a></li>
+            <li><a href="https://alexcleaningoh.com/cookies-policy/">Cookies Settings</a></li>
         </ul>
     </div>
 </footer>

@@ -58,7 +58,7 @@ Template Name: custom
               <h2>FOLLOW US</h2>
             </div>
             <div class="ig-iframe">
-            <iframe src="https://www.instagram.com/instagram/embed" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+            <iframe src="https://www.instagram.com/alexcleaningoh/embed" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
             </div>
           </div>
           <div class="contactcontainer container" id="contact">

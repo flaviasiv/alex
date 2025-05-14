@@ -8,7 +8,8 @@
     <title><?php bloginfo( 'name' ); ?> - <?php bloginfo( 'description' ); ?></title>
     <?php wp_head(); ?> <!-- Essa função é necessária para carregar scripts e estilos do WordPress e plugins -->
     <style>
-  header {
+
+header {
   position: relative;
   display:flex;
   justify-content: space-between;
@@ -50,7 +51,7 @@
   max-width: 1100px;
   margin: auto;
   border-radius: 10px;
-  background: #fff;
+  background: #021227;
   backdrop-filter: blur(14.149999618530273px);
   padding: 0 30px 0 30px;
   height: 80px;
@@ -84,7 +85,7 @@
 .menu-linksbtn a {
   display:block;
   text-align: center;
-  color:#021227;
+  color:#fff;
   text-decoration:none;
   font-family: 'Poppins';
   font-size: 13.724px;
@@ -123,10 +124,10 @@
   display: flex;
   justify-content: center;
   gap: 10px;
-  color: #021227;
+  color: #fff;
   border-radius: 9.372px;
-  border: 1.171px solid #021227;
-  background: #FFF;
+  border: 1.171px solid #fff;
+  background: #021227;
   font-size: 18.744px;
   font-weight: 700;
   line-height: 120%;
@@ -137,17 +138,17 @@
   margin: auto;
 }
 .callnow svg{
-  stroke: #021227;
+  stroke: #fff;
   width: 26px;
 }
 .callnow a:hover{
-background: #021227;
+background: #fff;
   border: 1.171px solid #fff;
   transition: 0.15s;
-color: #fff;
+color: #021227;
 }
 .callnow a:hover svg{
-  stroke: #fff;
+  stroke: #021227;
   transition: 0.15s;
 }
 .btn-toggle{display: none;}

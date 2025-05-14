@@ -1,6 +1,6 @@
 /*
 Theme Name: Alex
-Theme URI: http://alexcleaningoh-com.preview-domain.com/alex
+Theme URI: http://alexcleaningoh.com/alex
 Author: Flaviasig
 Author URI: https://flaviasiv.github.io/Portifolio-Flavia-Sigoli/
 Description: Um tema simples para WordPress.
@@ -180,8 +180,8 @@ small{
 }
 .vetorcontainer{
     max-width: 900px;
-    background-color: #fff;
-    color: #021227;
+    background-color: #021227;
+    color: #fff;
     display: flex;
     margin: auto;
     padding: 16px 64px;

@@ -199,6 +199,75 @@
                       <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/servpost.png" alt="" class="bgcard">
                     </a>
                   </div>
+                  <div class="servicescard postserv aos-fade">
+                    <a class="carda" href="https://alexcleaningoh.com/windowcleaning/">
+                      <div class="cardtext">
+                          <h2> WINDOW CLEANING</h2>
+                            <div class="cardsertext">
+                              <svg width="91" height="16" viewBox="0 0 91 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M7.41769 0.66333L9.08307 5.78883H14.4723L10.1123 8.95656L11.7777 14.0821L7.41769 10.9143L3.05768 14.0821L4.72306 8.95656L0.363048 5.78883H5.75232L7.41769 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M26.3181 0.66333L27.9835 5.78883H33.3727L29.0127 8.95656L30.6781 14.0821L26.3181 10.9143L21.9581 14.0821L23.6234 8.95656L19.2634 5.78883H24.6527L26.3181 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M45.2185 0.66333L46.8839 5.78883H52.2731L47.9131 8.95656L49.5785 14.0821L45.2185 10.9143L40.8585 14.0821L42.5238 8.95656L38.1638 5.78883H43.5531L45.2185 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M64.1189 0.66333L65.7842 5.78883H71.1735L66.8135 8.95656L68.4789 14.0821L64.1189 10.9143L59.7589 14.0821L61.4242 8.95656L57.0642 5.78883H62.4535L64.1189 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M83.0193 0.66333L84.6846 5.78883H90.0739L85.7139 8.95656L87.3793 14.0821L83.0193 10.9143L78.6592 14.0821L80.3246 8.95656L75.9646 5.78883H81.3539L83.0193 0.66333Z" fill="#D9D9D9"/>
+                                </svg>
+                                <p>Say goodbye to streaks, dust, and water spots! Our window cleaning service leaves your glass sparkling—inside and out. </p>
+                                <img class="vetorcard" src="https://alexcleaningoh.com/wp-content/uploads/2024/11/vetor1.png" alt="">
+                              <button class="btnservices"><svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M12.8555 4.24094C13.1306 3.96599 13.5035 3.81152 13.8924 3.81152C14.2814 3.81152 14.6543 3.96599 14.9294 4.24094L21.5294 10.8409C21.8043 11.116 21.9588 11.489 21.9588 11.8779C21.9588 12.2668 21.8043 12.6398 21.5294 12.9148L14.9294 19.5148C14.6528 19.782 14.2823 19.9298 13.8977 19.9265C13.5132 19.9231 13.1453 19.7689 12.8734 19.4969C12.6015 19.225 12.4472 18.8572 12.4439 18.4726C12.4405 18.088 12.5884 17.7176 12.8555 17.4409L16.8258 13.3445H2.89245C2.50346 13.3445 2.13041 13.19 1.85536 12.915C1.5803 12.6399 1.42578 12.2669 1.42578 11.8779C1.42578 11.4889 1.5803 11.1158 1.85536 10.8408C2.13041 10.5657 2.50346 10.4112 2.89245 10.4112H16.8258L12.8555 6.31481C12.5806 6.03977 12.4261 5.66678 12.4261 5.27788C12.4261 4.88897 12.5806 4.51598 12.8555 4.24094Z" fill="inherit"/>
+                                </svg>
+                                See more</button>
+                            </div>
+                      </div>
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Window-Cleaning-min-scaled.webp" alt="" class="bgcard">
+                    </a>
+                  </div>
+                  <div class="servicescard postserv aos-fade">
+                    <a class="carda" href="https://alexcleaningoh.com/carpetupholsterycleaning/">
+                      <div class="cardtext">
+                          <h2> CARPET & UPHOLSTERY CLEANING</h2>
+                            <div class="cardsertext">
+                              <svg width="91" height="16" viewBox="0 0 91 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M7.41769 0.66333L9.08307 5.78883H14.4723L10.1123 8.95656L11.7777 14.0821L7.41769 10.9143L3.05768 14.0821L4.72306 8.95656L0.363048 5.78883H5.75232L7.41769 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M26.3181 0.66333L27.9835 5.78883H33.3727L29.0127 8.95656L30.6781 14.0821L26.3181 10.9143L21.9581 14.0821L23.6234 8.95656L19.2634 5.78883H24.6527L26.3181 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M45.2185 0.66333L46.8839 5.78883H52.2731L47.9131 8.95656L49.5785 14.0821L45.2185 10.9143L40.8585 14.0821L42.5238 8.95656L38.1638 5.78883H43.5531L45.2185 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M64.1189 0.66333L65.7842 5.78883H71.1735L66.8135 8.95656L68.4789 14.0821L64.1189 10.9143L59.7589 14.0821L61.4242 8.95656L57.0642 5.78883H62.4535L64.1189 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M83.0193 0.66333L84.6846 5.78883H90.0739L85.7139 8.95656L87.3793 14.0821L83.0193 10.9143L78.6592 14.0821L80.3246 8.95656L75.9646 5.78883H81.3539L83.0193 0.66333Z" fill="#D9D9D9"/>
+                                </svg>
+                                <p>Your carpets and furniture deserve a deep refresh. From rugs to sofas, our service revitalizes your space, leaving it cleaner, fresher, and healthier.</p>
+                                <img class="vetorcard" src="https://alexcleaningoh.com/wp-content/uploads/2024/11/vetor1.png" alt="">
+                              <button class="btnservices"><svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M12.8555 4.24094C13.1306 3.96599 13.5035 3.81152 13.8924 3.81152C14.2814 3.81152 14.6543 3.96599 14.9294 4.24094L21.5294 10.8409C21.8043 11.116 21.9588 11.489 21.9588 11.8779C21.9588 12.2668 21.8043 12.6398 21.5294 12.9148L14.9294 19.5148C14.6528 19.782 14.2823 19.9298 13.8977 19.9265C13.5132 19.9231 13.1453 19.7689 12.8734 19.4969C12.6015 19.225 12.4472 18.8572 12.4439 18.4726C12.4405 18.088 12.5884 17.7176 12.8555 17.4409L16.8258 13.3445H2.89245C2.50346 13.3445 2.13041 13.19 1.85536 12.915C1.5803 12.6399 1.42578 12.2669 1.42578 11.8779C1.42578 11.4889 1.5803 11.1158 1.85536 10.8408C2.13041 10.5657 2.50346 10.4112 2.89245 10.4112H16.8258L12.8555 6.31481C12.5806 6.03977 12.4261 5.66678 12.4261 5.27788C12.4261 4.88897 12.5806 4.51598 12.8555 4.24094Z" fill="inherit"/>
+                                </svg>
+                                See more</button>
+                            </div>
+                      </div>
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Carpet-Upholstery-Cleaning-min-scaled.webp" alt="" class="bgcard">
+                    </a>
+                  </div>
+                  <div class="servicescard postserv aos-fade">
+                    <a class="carda" href="https://alexcleaningoh.com/basementcleaningorganization/">
+                      <div class="cardtext">
+                          <h2> BASEMENT CLEANING & ORGANIZATION</h2>
+                            <div class="cardsertext">
+                              <svg width="91" height="16" viewBox="0 0 91 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M7.41769 0.66333L9.08307 5.78883H14.4723L10.1123 8.95656L11.7777 14.0821L7.41769 10.9143L3.05768 14.0821L4.72306 8.95656L0.363048 5.78883H5.75232L7.41769 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M26.3181 0.66333L27.9835 5.78883H33.3727L29.0127 8.95656L30.6781 14.0821L26.3181 10.9143L21.9581 14.0821L23.6234 8.95656L19.2634 5.78883H24.6527L26.3181 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M45.2185 0.66333L46.8839 5.78883H52.2731L47.9131 8.95656L49.5785 14.0821L45.2185 10.9143L40.8585 14.0821L42.5238 8.95656L38.1638 5.78883H43.5531L45.2185 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M64.1189 0.66333L65.7842 5.78883H71.1735L66.8135 8.95656L68.4789 14.0821L64.1189 10.9143L59.7589 14.0821L61.4242 8.95656L57.0642 5.78883H62.4535L64.1189 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M83.0193 0.66333L84.6846 5.78883H90.0739L85.7139 8.95656L87.3793 14.0821L83.0193 10.9143L78.6592 14.0821L80.3246 8.95656L75.9646 5.78883H81.3539L83.0193 0.66333Z" fill="#D9D9D9"/>
+                                </svg>
+                                <p>A clean basement is a usable basement. We handle the deep cleaning and tackle clutter, transforming forgotten spaces into organized, functional areas. </p>
+                                <img class="vetorcard" src="https://alexcleaningoh.com/wp-content/uploads/2024/11/vetor1.png" alt="">
+                              <button class="btnservices"><svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M12.8555 4.24094C13.1306 3.96599 13.5035 3.81152 13.8924 3.81152C14.2814 3.81152 14.6543 3.96599 14.9294 4.24094L21.5294 10.8409C21.8043 11.116 21.9588 11.489 21.9588 11.8779C21.9588 12.2668 21.8043 12.6398 21.5294 12.9148L14.9294 19.5148C14.6528 19.782 14.2823 19.9298 13.8977 19.9265C13.5132 19.9231 13.1453 19.7689 12.8734 19.4969C12.6015 19.225 12.4472 18.8572 12.4439 18.4726C12.4405 18.088 12.5884 17.7176 12.8555 17.4409L16.8258 13.3445H2.89245C2.50346 13.3445 2.13041 13.19 1.85536 12.915C1.5803 12.6399 1.42578 12.2669 1.42578 11.8779C1.42578 11.4889 1.5803 11.1158 1.85536 10.8408C2.13041 10.5657 2.50346 10.4112 2.89245 10.4112H16.8258L12.8555 6.31481C12.5806 6.03977 12.4261 5.66678 12.4261 5.27788C12.4261 4.88897 12.5806 4.51598 12.8555 4.24094Z" fill="inherit"/>
+                                </svg>
+                                See more</button>
+                            </div>
+                      </div>
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Basement-Cleaning-Organization-min-scaled.webp" alt="" class="bgcard">
+                    </a>
+                  </div>
                 </div>
                 <div class="servicesgrid gridmobile">
                   <swiper-container class="mySwiper3 aos-fade" pagination="true" pagination-clickable="true" space-between="10" slides-per-view="auto" loop="true" navigation="true" autoplay-delay="4000" pagination-dynamic-bullets="true">
@@ -294,6 +363,81 @@
                           <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/servpost.png" alt="" class="bgcard">
                         </a>
                       </div>
+                    </swiper-slide>
+                    <swiper-slide class="swiper3">
+                  <div class="servicescard postserv aos-fade">
+                    <a class="carda" href="https://alexcleaningoh.com/windowcleaning/">
+                      <div class="cardtext">
+                          <h2> WINDOW CLEANING</h2>
+                            <div class="cardsertext">
+                              <svg width="91" height="16" viewBox="0 0 91 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M7.41769 0.66333L9.08307 5.78883H14.4723L10.1123 8.95656L11.7777 14.0821L7.41769 10.9143L3.05768 14.0821L4.72306 8.95656L0.363048 5.78883H5.75232L7.41769 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M26.3181 0.66333L27.9835 5.78883H33.3727L29.0127 8.95656L30.6781 14.0821L26.3181 10.9143L21.9581 14.0821L23.6234 8.95656L19.2634 5.78883H24.6527L26.3181 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M45.2185 0.66333L46.8839 5.78883H52.2731L47.9131 8.95656L49.5785 14.0821L45.2185 10.9143L40.8585 14.0821L42.5238 8.95656L38.1638 5.78883H43.5531L45.2185 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M64.1189 0.66333L65.7842 5.78883H71.1735L66.8135 8.95656L68.4789 14.0821L64.1189 10.9143L59.7589 14.0821L61.4242 8.95656L57.0642 5.78883H62.4535L64.1189 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M83.0193 0.66333L84.6846 5.78883H90.0739L85.7139 8.95656L87.3793 14.0821L83.0193 10.9143L78.6592 14.0821L80.3246 8.95656L75.9646 5.78883H81.3539L83.0193 0.66333Z" fill="#D9D9D9"/>
+                                </svg>
+                                <p>Say goodbye to streaks, dust, and water spots! Our window cleaning service leaves your glass sparkling—inside and out. </p>
+                                <img class="vetorcard" src="https://alexcleaningoh.com/wp-content/uploads/2024/11/vetor1.png" alt="">
+                              <button class="btnservices"><svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M12.8555 4.24094C13.1306 3.96599 13.5035 3.81152 13.8924 3.81152C14.2814 3.81152 14.6543 3.96599 14.9294 4.24094L21.5294 10.8409C21.8043 11.116 21.9588 11.489 21.9588 11.8779C21.9588 12.2668 21.8043 12.6398 21.5294 12.9148L14.9294 19.5148C14.6528 19.782 14.2823 19.9298 13.8977 19.9265C13.5132 19.9231 13.1453 19.7689 12.8734 19.4969C12.6015 19.225 12.4472 18.8572 12.4439 18.4726C12.4405 18.088 12.5884 17.7176 12.8555 17.4409L16.8258 13.3445H2.89245C2.50346 13.3445 2.13041 13.19 1.85536 12.915C1.5803 12.6399 1.42578 12.2669 1.42578 11.8779C1.42578 11.4889 1.5803 11.1158 1.85536 10.8408C2.13041 10.5657 2.50346 10.4112 2.89245 10.4112H16.8258L12.8555 6.31481C12.5806 6.03977 12.4261 5.66678 12.4261 5.27788C12.4261 4.88897 12.5806 4.51598 12.8555 4.24094Z" fill="inherit"/>
+                                </svg>
+                                See more</button>
+                            </div>
+                      </div>
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Window-Cleaning-min-scaled.webp" alt="" class="bgcard">
+                    </a>
+                  </div>
+                    </swiper-slide>
+                    <swiper-slide class="swiper3">
+                  <div class="servicescard postserv aos-fade">
+                    <a class="carda" href="https://alexcleaningoh.com/carpetupholsterycleaning/">
+                      <div class="cardtext">
+                          <h2> CARPET & UPHOLSTERY CLEANING</h2>
+                            <div class="cardsertext">
+                              <svg width="91" height="16" viewBox="0 0 91 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M7.41769 0.66333L9.08307 5.78883H14.4723L10.1123 8.95656L11.7777 14.0821L7.41769 10.9143L3.05768 14.0821L4.72306 8.95656L0.363048 5.78883H5.75232L7.41769 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M26.3181 0.66333L27.9835 5.78883H33.3727L29.0127 8.95656L30.6781 14.0821L26.3181 10.9143L21.9581 14.0821L23.6234 8.95656L19.2634 5.78883H24.6527L26.3181 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M45.2185 0.66333L46.8839 5.78883H52.2731L47.9131 8.95656L49.5785 14.0821L45.2185 10.9143L40.8585 14.0821L42.5238 8.95656L38.1638 5.78883H43.5531L45.2185 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M64.1189 0.66333L65.7842 5.78883H71.1735L66.8135 8.95656L68.4789 14.0821L64.1189 10.9143L59.7589 14.0821L61.4242 8.95656L57.0642 5.78883H62.4535L64.1189 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M83.0193 0.66333L84.6846 5.78883H90.0739L85.7139 8.95656L87.3793 14.0821L83.0193 10.9143L78.6592 14.0821L80.3246 8.95656L75.9646 5.78883H81.3539L83.0193 0.66333Z" fill="#D9D9D9"/>
+                                </svg>
+                                <p>Your carpets and furniture deserve a deep refresh. From rugs to sofas, our service revitalizes your space, leaving it cleaner, fresher, and healthier.</p>
+                                <img class="vetorcard" src="https://alexcleaningoh.com/wp-content/uploads/2024/11/vetor1.png" alt="">
+                              <button class="btnservices"><svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M12.8555 4.24094C13.1306 3.96599 13.5035 3.81152 13.8924 3.81152C14.2814 3.81152 14.6543 3.96599 14.9294 4.24094L21.5294 10.8409C21.8043 11.116 21.9588 11.489 21.9588 11.8779C21.9588 12.2668 21.8043 12.6398 21.5294 12.9148L14.9294 19.5148C14.6528 19.782 14.2823 19.9298 13.8977 19.9265C13.5132 19.9231 13.1453 19.7689 12.8734 19.4969C12.6015 19.225 12.4472 18.8572 12.4439 18.4726C12.4405 18.088 12.5884 17.7176 12.8555 17.4409L16.8258 13.3445H2.89245C2.50346 13.3445 2.13041 13.19 1.85536 12.915C1.5803 12.6399 1.42578 12.2669 1.42578 11.8779C1.42578 11.4889 1.5803 11.1158 1.85536 10.8408C2.13041 10.5657 2.50346 10.4112 2.89245 10.4112H16.8258L12.8555 6.31481C12.5806 6.03977 12.4261 5.66678 12.4261 5.27788C12.4261 4.88897 12.5806 4.51598 12.8555 4.24094Z" fill="inherit"/>
+                                </svg>
+                                See more</button>
+                            </div>
+                      </div>
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Carpet-Upholstery-Cleaning-min-scaled.webp" alt="" class="bgcard">
+                    </a>
+                  </div>
+                    </swiper-slide>
+                    <swiper-slide class="swiper3">
+                  <div class="servicescard postserv aos-fade">
+                    <a class="carda" href="https://alexcleaningoh.com/basementcleaningorganization/">
+                      <div class="cardtext">
+                          <h2> BASEMENT CLEANING & ORGANIZATION</h2>
+                            <div class="cardsertext">
+                              <svg width="91" height="16" viewBox="0 0 91 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M7.41769 0.66333L9.08307 5.78883H14.4723L10.1123 8.95656L11.7777 14.0821L7.41769 10.9143L3.05768 14.0821L4.72306 8.95656L0.363048 5.78883H5.75232L7.41769 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M26.3181 0.66333L27.9835 5.78883H33.3727L29.0127 8.95656L30.6781 14.0821L26.3181 10.9143L21.9581 14.0821L23.6234 8.95656L19.2634 5.78883H24.6527L26.3181 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M45.2185 0.66333L46.8839 5.78883H52.2731L47.9131 8.95656L49.5785 14.0821L45.2185 10.9143L40.8585 14.0821L42.5238 8.95656L38.1638 5.78883H43.5531L45.2185 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M64.1189 0.66333L65.7842 5.78883H71.1735L66.8135 8.95656L68.4789 14.0821L64.1189 10.9143L59.7589 14.0821L61.4242 8.95656L57.0642 5.78883H62.4535L64.1189 0.66333Z" fill="#D9D9D9"/>
+                                <path d="M83.0193 0.66333L84.6846 5.78883H90.0739L85.7139 8.95656L87.3793 14.0821L83.0193 10.9143L78.6592 14.0821L80.3246 8.95656L75.9646 5.78883H81.3539L83.0193 0.66333Z" fill="#D9D9D9"/>
+                                </svg>
+                                <p>A clean basement is a usable basement. We handle the deep cleaning and tackle clutter, transforming forgotten spaces into organized, functional areas. </p>
+                                <img class="vetorcard" src="https://alexcleaningoh.com/wp-content/uploads/2024/11/vetor1.png" alt="">
+                              <button class="btnservices"><svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M12.8555 4.24094C13.1306 3.96599 13.5035 3.81152 13.8924 3.81152C14.2814 3.81152 14.6543 3.96599 14.9294 4.24094L21.5294 10.8409C21.8043 11.116 21.9588 11.489 21.9588 11.8779C21.9588 12.2668 21.8043 12.6398 21.5294 12.9148L14.9294 19.5148C14.6528 19.782 14.2823 19.9298 13.8977 19.9265C13.5132 19.9231 13.1453 19.7689 12.8734 19.4969C12.6015 19.225 12.4472 18.8572 12.4439 18.4726C12.4405 18.088 12.5884 17.7176 12.8555 17.4409L16.8258 13.3445H2.89245C2.50346 13.3445 2.13041 13.19 1.85536 12.915C1.5803 12.6399 1.42578 12.2669 1.42578 11.8779C1.42578 11.4889 1.5803 11.1158 1.85536 10.8408C2.13041 10.5657 2.50346 10.4112 2.89245 10.4112H16.8258L12.8555 6.31481C12.5806 6.03977 12.4261 5.66678 12.4261 5.27788C12.4261 4.88897 12.5806 4.51598 12.8555 4.24094Z" fill="inherit"/>
+                                </svg>
+                                See more</button>
+                            </div>
+                      </div>
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Basement-Cleaning-Organization-min-scaled.webp" alt="" class="bgcard">
+                    </a>
+                  </div>
                     </swiper-slide>
                   </swiper-container> 
                 </div>

@@ -1,0 +1,361 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - navigation [ref=e3]:
+      - link:
+        - /url: "#"
+      - link "Call now" [ref=e5] [cursor=pointer]:
+        - /url: tel:+16142549495
+        - img [ref=e6]
+        - text: Call now
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Home":
+                - /url: "#"
+            - listitem:
+              - link "Services":
+                - /url: "#services"
+            - listitem:
+              - link "About us":
+                - /url: "#aboutus"
+            - listitem:
+              - link "Portfolio":
+                - /url: "#portfolio"
+            - listitem:
+              - link "Reviews":
+                - /url: "#reviews"
+        - generic:
+          - link:
+            - /url: "#"
+        - generic:
+          - list
+  - main [ref=e12]:
+    - generic [ref=e15]:
+      - generic [ref=e16]: Personalized Cleaning for Your
+      - heading "UNIQUE SPACE" [level=1] [ref=e17]:
+        - text: UNIQUE
+        - text: SPACE
+      - button "Get a free estimate" [ref=e18] [cursor=pointer]:
+        - link "Get a free estimate" [ref=e19]:
+          - /url: "#contact"
+          - img [ref=e20]
+          - text: Get a free estimate
+    - generic [ref=e25]:
+      - list [ref=e27]:
+        - listitem [ref=e28]:
+          - link [ref=e29] [cursor=pointer]:
+            - /url: https://www.instagram.com/alexcleaningoh/
+            - img [ref=e30]
+        - listitem [ref=e33]:
+          - link [ref=e34] [cursor=pointer]:
+            - /url: https://www.facebook.com/people/Alex-Cleaning/61560469628128/
+            - img [ref=e35]
+        - listitem [ref=e38]:
+          - link [ref=e39] [cursor=pointer]:
+            - /url: https://www.google.com/search?q=Alex+Cleaning+Services&stick=H4sIAAAAAAAA_-NgU1I1qDAzSzRLM01KsjQ1MUoxNE2zMqhIM7RMtDBJNDVPSk4zT7JIWsQq5piTWqHgnJOamJeZl64QnFpUlpmcWgwAAC-gZEIAAAA&hl=en&mat=CRne5bMl-270ElYBqiIDwsGiqRElfCOciz6DZwf0rWBQPcjHb5Z9oMcVRnwFDSJTUrLSI7oRxEH0EAs0FGaZefhNhZdWcrTPlAmvU8DThWJrDD-1pN56s2VwzZQaDzv_RQ&authuser=0
+            - img [ref=e40]
+      - list [ref=e44]:
+        - listitem [ref=e45]:
+          - paragraph [ref=e46]: Licensed & insured
+        - listitem [ref=e47]:
+          - paragraph [ref=e48]: 8 years of experience
+        - listitem [ref=e49]:
+          - paragraph [ref=e50]: Trustworthy & reliable
+        - listitem [ref=e51]:
+          - paragraph [ref=e52]: Taylored Solutions
+    - generic [ref=e53]:
+      - heading "TRANSFORM YOUR SPACE" [level=2] [ref=e54]
+      - paragraph [ref=e55]: With Alex Cleaning
+      - img [ref=e56]
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - generic [ref=e63]: SERVICES
+          - paragraph [ref=e64]: From residential to commercial cleaning, we offer tailored services with a focus on quality and meticulous attention to detail!
+        - generic [ref=e65]:
+          - link "RESIDENTIAL CLEANING Our residential cleaning service goes beyond the surface to give your home a thorough, refreshing clean. See more" [ref=e67] [cursor=pointer]:
+            - /url: https://alexcleaningoh.com/residentialcleaning/
+            - generic [ref=e68]:
+              - heading "RESIDENTIAL CLEANING" [level=2] [ref=e69]
+              - generic [ref=e70]:
+                - img [ref=e71]
+                - paragraph [ref=e77]: Our residential cleaning service goes beyond the surface to give your home a thorough, refreshing clean.
+                - button "See more" [ref=e78]:
+                  - img [ref=e79]
+                  - text: See more
+          - link "OFFICE CLEANING Our office cleaning services are designed to create a clean, healthy, and organized work environment. See more" [ref=e82] [cursor=pointer]:
+            - /url: https://alexcleaningoh.com/officecleaning/
+            - generic [ref=e83]:
+              - heading "OFFICE CLEANING" [level=2] [ref=e84]
+              - generic [ref=e85]:
+                - img [ref=e86]
+                - paragraph [ref=e92]: Our office cleaning services are designed to create a clean, healthy, and organized work environment.
+                - button "See more" [ref=e93]:
+                  - img [ref=e94]
+                  - text: See more
+          - link "MOVE IN & OUT CLEANING Moving can be stressful, but our move-in and move-out cleaning services are here to make the process smoother. See more" [ref=e97] [cursor=pointer]:
+            - /url: https://alexcleaningoh.com/moveinandoutcleaning/
+            - generic [ref=e98]:
+              - heading "MOVE IN & OUT CLEANING" [level=2] [ref=e99]
+              - generic [ref=e100]:
+                - img [ref=e101]
+                - paragraph [ref=e107]: Moving can be stressful, but our move-in and move-out cleaning services are here to make the process smoother.
+                - button "See more" [ref=e108]:
+                  - img [ref=e109]
+                  - text: See more
+          - link "POST CONSTRUCTION CLEANING After the dust settles from a renovation or construction project, our post-construction cleaning See more" [ref=e112] [cursor=pointer]:
+            - /url: https://alexcleaningoh.com/postconstructioncleaning/
+            - generic [ref=e113]:
+              - heading "POST CONSTRUCTION CLEANING" [level=2] [ref=e114]
+              - generic [ref=e115]:
+                - img [ref=e116]
+                - paragraph [ref=e122]: After the dust settles from a renovation or construction project, our post-construction cleaning
+                - button "See more" [ref=e123]:
+                  - img [ref=e124]
+                  - text: See more
+          - link "WINDOW CLEANING Say goodbye to streaks, dust, and water spots! Our window cleaning service leaves your glass sparkling—inside and out. See more" [ref=e127] [cursor=pointer]:
+            - /url: https://alexcleaningoh.com/windowcleaning/
+            - generic [ref=e128]:
+              - heading "WINDOW CLEANING" [level=2] [ref=e129]
+              - generic [ref=e130]:
+                - img [ref=e131]
+                - paragraph [ref=e137]: Say goodbye to streaks, dust, and water spots! Our window cleaning service leaves your glass sparkling—inside and out.
+                - button "See more" [ref=e138]:
+                  - img [ref=e139]
+                  - text: See more
+          - link "CARPET & UPHOLSTERY CLEANING Your carpets and furniture deserve a deep refresh. From rugs to sofas, our service revitalizes your space, leaving it cleaner, fresher, and healthier. See more" [ref=e142] [cursor=pointer]:
+            - /url: https://alexcleaningoh.com/carpetupholsterycleaning/
+            - generic [ref=e143]:
+              - heading "CARPET & UPHOLSTERY CLEANING" [level=2] [ref=e144]
+              - generic [ref=e145]:
+                - img [ref=e146]
+                - paragraph [ref=e152]: Your carpets and furniture deserve a deep refresh. From rugs to sofas, our service revitalizes your space, leaving it cleaner, fresher, and healthier.
+                - button "See more" [ref=e153]:
+                  - img [ref=e154]
+                  - text: See more
+          - link "BASEMENT CLEANING & ORGANIZATION A clean basement is a usable basement. We handle the deep cleaning and tackle clutter, transforming forgotten spaces into organized, functional areas. See more" [ref=e157] [cursor=pointer]:
+            - /url: https://alexcleaningoh.com/basementcleaningorganization/
+            - generic [ref=e158]:
+              - heading "BASEMENT CLEANING & ORGANIZATION" [level=2] [ref=e159]
+              - generic [ref=e160]:
+                - img [ref=e161]
+                - paragraph [ref=e167]: A clean basement is a usable basement. We handle the deep cleaning and tackle clutter, transforming forgotten spaces into organized, functional areas.
+                - button "See more" [ref=e168]:
+                  - img [ref=e169]
+                  - text: See more
+      - button "Get a free estimate" [ref=e171] [cursor=pointer]:
+        - link "Get a free estimate" [ref=e172]:
+          - /url: "#contact"
+          - img [ref=e173]
+          - text: Get a free estimate
+    - generic [ref=e177]:
+      - heading "EASY BOOKING" [level=2] [ref=e178]
+      - paragraph [ref=e179]: Explore How Simple It Is to Hire Our Team
+      - generic [ref=e180]:
+        - generic [ref=e181]:
+          - img [ref=e182]
+          - heading "Click the button to get a free quote." [level=5] [ref=e185]
+        - generic [ref=e187]:
+          - img [ref=e188]
+          - heading "Specify your cleaning needs." [level=5] [ref=e191]
+        - generic [ref=e193]:
+          - img [ref=e194]
+          - heading "Wait for our team to contact." [level=5] [ref=e197]
+    - generic [ref=e199]:
+      - generic [ref=e200]:
+        - text: Commited to
+        - heading "SPARKLING RESULTS" [level=2] [ref=e201]
+      - generic [ref=e202]:
+        - generic [ref=e203]: about us
+        - paragraph [ref=e204]: With over 8 years in the cleaning industry, we pride ourselves on delivering exceptional results through our commitment to quality and integrity. Our licensed and insured team is dedicated to transforming your space into a clean, welcoming environment. At Alex Cleaning Services, we understand that details matter. Fully equipped with professional-grade tools, we ensure the highest standards of cleanliness and hygiene. Our tailored services meet your specific needs, whether residential or commercial. Trust us to handle your space with care and professionalism.
+    - generic [ref=e205]:
+      - generic [ref=e206]:
+        - generic [ref=e207]: Excellence
+        - heading "YOU CAN TRUST" [level=2] [ref=e208]
+        - paragraph [ref=e209]: With a foundation in hard work and integrity, we deliver unmatched cleaning services that reflect our commitment to care and perfection.
+      - generic [ref=e210]:
+        - generic [ref=e211]:
+          - img [ref=e212]
+          - heading "LICENSED AND INSURED" [level=5] [ref=e215]
+        - generic [ref=e216]:
+          - img [ref=e217]
+          - heading "Personalized Cleaning Solutions" [level=5] [ref=e227]
+        - generic [ref=e228]:
+          - img [ref=e229]
+          - heading "100% satisfaction guaranteed" [level=5] [ref=e237]
+        - generic [ref=e238]:
+          - img [ref=e239]
+          - heading "Brazilian and American Cleaning Techniques" [level=5] [ref=e241]
+      - button "Get a free estimate" [ref=e242] [cursor=pointer]:
+        - link "Get a free estimate" [ref=e243]:
+          - /url: "#contact"
+          - img [ref=e244]
+          - text: Get a free estimate
+    - generic [ref=e249]:
+      - generic [ref=e250]: See Our Dedication
+      - heading "IN ACTION" [level=2] [ref=e251]
+    - generic [ref=e256]:
+      - generic [ref=e257]:
+        - text: Reviews
+        - heading "CUSTOMERS LOVE ALEX CLEANING" [level=2] [ref=e258]
+      - button "Get a free estimate" [ref=e259] [cursor=pointer]:
+        - link "Get a free estimate" [ref=e260]:
+          - /url: "#contact"
+          - img [ref=e261]
+          - text: Get a free estimate
+    - generic [ref=e264]:
+      - generic [ref=e265]:
+        - img [ref=e266]
+        - heading "FOLLOW US" [level=2] [ref=e268]
+      - iframe [ref=e270]:
+        - generic [ref=f1e5]:
+          - generic [ref=f1e9]:
+            - generic [ref=f1e10]:
+              - link "Foto do perfil de alexcleaningoh" [ref=f1e12]:
+                - img "Foto do perfil de alexcleaningoh" [ref=f1e13]
+              - generic [ref=f1e14]:
+                - link "alexcleaningoh" [ref=f1e16] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=f1e17]: alexcleaningoh
+                - link "Alex Cleaning" [ref=f1e19] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=f1e20]: Alex Cleaning
+                - generic [ref=f1e22]:
+                  - generic [ref=f1e24]:
+                    - generic "179" [ref=f1e25]
+                    - text: seguidores
+                  - text: •
+                  - generic [ref=f1e27]:
+                    - generic [ref=f1e28]: "178"
+                    - text: posts
+            - generic [ref=f1e29]:
+              - separator [ref=f1e30]
+              - separator [ref=f1e33]
+            - button "Ver perfil completo no Instagram" [ref=f1e35] [cursor=pointer]
+          - link "Instagram" [ref=f1e36] [cursor=pointer]:
+            - /url: https://www.instagram.com/alexcleaningoh/?utm_source=ig_embed&ig_rid=855f3e0e-931e-4f31-89ef-bbb43832c1a0
+            - generic [ref=f1e38]: Instagram
+    - generic [ref=e273]:
+      - text: Get a Free Estimate
+      - heading "Contact us today for a personalized quote!" [level=2] [ref=e274]
+    - generic [ref=e276]:
+      - iframe [ref=e277]
+      - generic [ref=e278]:
+        - generic [ref=e279]:
+          - heading "Locate us and enjoy top-quality cleaning services!" [level=2] [ref=e280]
+          - button "Google My Business" [ref=e281] [cursor=pointer]:
+            - link "Google My Business" [ref=e282]:
+              - /url: https://www.google.com/maps/place/Alex+Cleaning+Services/@40.3633984,-82.669505,7z/data=!4m8!3m7!1s0x66a6f5bb9542d15f:0xf19a84a57bcf7b8b!8m2!3d40.3633984!4d-82.669505!9m1!1b1!16s%2Fg%2F11w1hlw17m?hl=en&entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoJLDEwMjExMjMzSAFQAw%3D%3D
+              - img [ref=e283]
+              - text: Google My Business
+          - img [ref=e285]
+        - generic [ref=e292]:
+          - heading "Areas We Serve" [level=2] [ref=e293]:
+            - text: Areas
+            - text: We Serve
+          - generic [ref=e294]:
+            - list [ref=e295]:
+              - listitem [ref=e296]: · Bexley
+              - listitem [ref=e297]: · Blacklick
+              - listitem [ref=e298]: · Buckeye Lake
+              - listitem [ref=e299]: · Canal Winchester
+              - listitem [ref=e300]: · Clintonville
+              - listitem [ref=e301]: · Columbus
+              - listitem [ref=e302]: · Delaware
+              - listitem [ref=e303]: · Galena
+              - listitem [ref=e304]: · Gahanna
+              - listitem [ref=e305]: · Galloway
+            - list [ref=e306]:
+              - listitem [ref=e307]: · Grove City
+              - listitem [ref=e308]: · Groveport
+              - listitem [ref=e309]: · Heaton
+              - listitem [ref=e310]: · Hilliard
+              - listitem [ref=e311]: · Johnstown
+              - listitem [ref=e312]: · Lancaster
+              - listitem [ref=e313]: · Lewis Center
+              - listitem [ref=e314]: · Marion
+              - listitem [ref=e315]: · Marysville
+              - listitem [ref=e316]: · Newark
+            - list [ref=e317]:
+              - listitem [ref=e318]: · New Albany
+              - listitem [ref=e319]: · Pataskala
+              - listitem [ref=e320]: · Pickerington
+              - listitem [ref=e321]: · Plain City
+              - listitem [ref=e322]: · Powell
+              - listitem [ref=e323]: · Reynoldsburg
+              - listitem [ref=e324]: · Sunbury
+              - listitem [ref=e325]: · Upper Arlington
+              - listitem [ref=e326]: · Westerville
+              - listitem [ref=e327]: · Worthington
+  - contentinfo [ref=e328]:
+    - generic [ref=e329]:
+      - list [ref=e331]:
+        - listitem [ref=e332]:
+          - heading "Location" [level=5] [ref=e333]:
+            - img [ref=e334]
+            - text: Location
+          - paragraph [ref=e336]: Columbus, OH
+        - listitem [ref=e337]:
+          - heading "Email" [level=5] [ref=e338]:
+            - img [ref=e339]
+            - text: Email
+          - paragraph [ref=e341]: alexcleaningoh@gmail.com
+        - listitem [ref=e342]:
+          - heading "Phone" [level=5] [ref=e343]:
+            - img [ref=e344]
+            - text: Phone
+          - paragraph [ref=e346]: (614) 254-9495
+      - list [ref=e348]:
+        - listitem [ref=e349]:
+          - link "Home" [ref=e350] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e351]:
+          - link "Services" [ref=e352] [cursor=pointer]:
+            - /url: "#services"
+        - listitem [ref=e353]:
+          - link "About us" [ref=e354] [cursor=pointer]:
+            - /url: "#aboutus"
+        - listitem [ref=e355]:
+          - link "Portfolio" [ref=e356] [cursor=pointer]:
+            - /url: "#portfolio"
+        - listitem [ref=e357]:
+          - link "Reviews" [ref=e358] [cursor=pointer]:
+            - /url: "#reviews"
+        - listitem [ref=e359]:
+          - link "Contact" [ref=e360] [cursor=pointer]:
+            - /url: "#contact"
+      - list [ref=e362]:
+        - listitem [ref=e363]: Our Hours
+        - listitem [ref=e364]: "Mon: 8am - 6pm"
+        - listitem [ref=e365]: "Tue: 8am - 6pm"
+        - listitem [ref=e366]: "Wed: 8am - 6pm"
+        - listitem [ref=e367]: "Thu: 8am - 6pm"
+        - listitem [ref=e368]: "Fri: 8am - 6pm"
+        - listitem [ref=e369]: "Sat: Closed"
+        - listitem [ref=e370]: "Sun: Closed"
+      - generic [ref=e371]:
+        - heading "Follow us" [level=3] [ref=e372]
+        - list [ref=e373]:
+          - listitem [ref=e374]:
+            - link "Facebook" [ref=e375] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e376]
+              - text: Facebook
+          - listitem [ref=e378]:
+            - link "Instagram" [ref=e379] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e380]
+              - text: Instagram
+    - generic [ref=e382]:
+      - paragraph [ref=e383]: © . All rights reserved.
+      - list [ref=e384]:
+        - listitem [ref=e385]:
+          - link "Privacy Policy" [ref=e386] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e387]:
+          - link "Terms of Service" [ref=e388] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e389]:
+          - link "Cookies Settings" [ref=e390] [cursor=pointer]:
+            - /url: "#"

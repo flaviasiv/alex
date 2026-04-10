@@ -1,0 +1,14 @@
+[    1394ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/aboutbg.png:0
+[    1395ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/missionbg.png:0
+[    1476ms] [WARNING] Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters @ https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js:12
+[    1501ms] [LOG] Live reload enabled. @ http://127.0.0.1:5500/index.html:874
+[   12027ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5500/favicon.ico:0
+[   58251ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/missionbg.png:0
+[   58251ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/aboutbg.png:0
+[   58267ms] [WARNING] Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters @ https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js:12
+[  185451ms] [WARNING] Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters @ https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js:12
+[  185608ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/missionbg.png:0
+[  185610ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/aboutbg.png:0
+[  201680ms] [WARNING] Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters @ https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js:12
+[  201694ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/aboutbg.png:0
+[  201695ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/missionbg.png:0

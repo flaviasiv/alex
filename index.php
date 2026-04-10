@@ -668,8 +668,35 @@
               </div>
             </div>
             <div class="form">
-               <!-- form plugin -->
-              <?php echo do_shortcode('[forminator_form id="63"]'); ?>
+              <form class="contact-form" id="contactForm" action="https://formspree.io/f/mzdklqge" method="POST">
+                <input type="hidden" name="_next" value="https://alexcleaningoh.com/thankyou/">
+
+                <div class="form-row">
+                  <div class="form-group">
+                    <label for="firstName">First Name <span class="required">*</span></label>
+                    <input type="text" id="firstName" name="first_name" placeholder="Your first name" required>
+                  </div>
+                  <div class="form-group">
+                    <label for="lastName">Last Name <span class="required">*</span></label>
+                    <input type="text" id="lastName" name="last_name" placeholder="Your last name" required>
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-group">
+                    <label for="email">Email <span class="required">*</span></label>
+                    <input type="email" id="email" name="email" placeholder="your@email.com" required>
+                  </div>
+                  <div class="form-group">
+                    <label for="phone">Phone <span class="required">*</span></label>
+                    <input type="tel" id="phone" name="phone" placeholder="(614) 000-0000" required>
+                  </div>
+                </div>
+                <div class="form-group form-group--full">
+                  <label for="message">Message</label>
+                  <textarea id="message" name="message" rows="4" placeholder="Tell us more about your cleaning needs..."></textarea>
+                </div>
+                <button type="submit" class="form-submit">Get a Free Estimate</button>
+              </form>
             </div>
           </div>
           <div class="areascontainer container">

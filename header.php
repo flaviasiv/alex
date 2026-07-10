@@ -2,9 +2,21 @@
 <html <?php language_attributes(); ?>>
 <head>
     <meta charset="<?php bloginfo( 'charset' ); ?>">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Poppins:wght@300;400;600&family=Urbanist:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/swiper-bundle.min.css">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="style.css">
+    <meta name="author" content="Flavia Sigoli"/>
+    <meta http-equiv="content-language" content="en-US" />
+    <meta name="copyright" content="Copyright © 2024 Clauze Cleaning" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="portfolio, Business, Clauze Cleaning, Clauze, Clauze Cleaning, Services, about, OHIO, USA">
+    <meta name="robots" content="index, follow">
     <title><?php bloginfo( 'name' ); ?> - <?php bloginfo( 'description' ); ?></title>
     <?php wp_head(); ?> <!-- Essa função é necessária para carregar scripts e estilos do WordPress e plugins -->
     <style>
@@ -304,7 +316,7 @@ align-items: end;
  .main-navigation {
      display: none;
  }
- 
+
  .menu-toggle {
      display: block; /* Botão de toggle para dispositivos móveis */
  }
@@ -314,19 +326,150 @@ align-items: end;
  }
 }
 
-/* Exemplo básico de estilo responsivo para o menu */
-@media (max-width: 768px) {
- .main-navigation {
-     display: none;
- }
- 
- .menu-toggle {
-     display: block; /* Botão de toggle para dispositivos móveis */
- }
-
- .menu-toggle.active + .main-navigation {
-     display: block; /* Exibe o menu quando o botão for clicado */
- }
+footer{
+    background-color: #021227;
+}
+.footergrid{
+    display: flex;
+    width: 100%;
+    max-width: 1400px;
+    justify-content: space-between;
+    color: #fff;
+    margin: auto;
+    padding: 50px 80px 30px 50px;
+    font-family: 'Poppins';
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+footer ul{
+    list-style: none;
+}
+.locationcontainer ul li{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 190%;
+    gap: 8px;
+}
+.locationcontainer ul{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.locationcontainer ul h5{
+    display: flex;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 140%;
+    align-items: center;
+    gap: 3px;
+}
+.footernav ul, .opentime ul{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.opentime ul{
+    gap: 1.5px;
+}
+.opentime ul li{
+    font-family: 'Poppins';
+    font-size: 12.676px;
+    font-weight: 400;
+    line-height: 190%; /* 24.085px */
+}
+.address{
+    font-size: 14.789px;
+    font-weight: 600;
+    line-height: 140%;
+}
+.address ul{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    gap: 5px;
+}
+.address ul li a{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.address li svg{
+    fill: #fff;
+}
+.footer-credits{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    width: 100%;
+    max-width: 1300px;
+    margin: auto;
+    padding: 0;
+    align-items: center;
+    text-align: center;
+    border-top: 1px solid #89DBC9;
+}
+.footer-credits ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.footer-credits ul li a{
+    color: #fff;
+}
+.footer-credits p, .footer-credits ul li{
+    color: #fff;
+    font-size: 14.4px;
+    font-weight: 300;
+    line-height: 150%;
+}
+footer a:hover, footer a:hover svg{
+    color: #89DBC9;
+    fill: #89DBC9;
+}
+@media screen and (max-width:1100px) {
+    .footer-credits{
+        padding: 30px 10px 0;
+    }
+}
+@media screen and (max-width:890px) {
+    footer{
+        padding: 0 10px;
+    }
+    .footergrid{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 50px 0 0 0;
+    }
+    .locationcontainer ul, .locationcontainer li {
+        align-items: center;
+    }
+    .footergrid div{
+        padding: 20px 0;
+        width: 100%;
+    }
+    .address ul li{
+        margin: auto;
+    }
+    .footer-credits{
+        flex-direction: column;
+        margin: 0;
+        gap: 20px;
+        padding: 30px 0 0 !important;
+        height: 150px !important;
+    }
+    .footer-credits ul{
+        flex-direction: column;
+        gap: 0px !important;
+    }
 }
 </style>
 </head>

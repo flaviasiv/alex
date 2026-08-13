@@ -23,9 +23,9 @@ Template Name: custom
                 </div>
               </div>
               <div class="gallerygrid gallerygridd">
-                <div class="gallerycard"><img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/Gallery1.png" alt=""><img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/Gallery2.png" alt=""></div>
-                <div class="gallerycard cardm-t"><img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/Gallery3.png" alt=""><img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/Gallery4.png" alt=""></div>
-                <div class="gallerycard"><img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/Gallery5.png" alt=""><img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/Gallery6.png" alt=""></div>
+                <div class="gallerycard"><img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Gallery1.jpg" alt="" width="340" height="453" loading="lazy"><img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Gallery2.jpg" alt="" width="340" height="453" loading="lazy"></div>
+                <div class="gallerycard cardm-t"><img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Gallery3.jpg" alt="" width="340" height="453" loading="lazy"><img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Gallery4.jpg" alt="" width="340" height="453" loading="lazy"></div>
+                <div class="gallerycard"><img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Gallery5.jpg" alt="" width="340" height="453" loading="lazy"><img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Gallery6.jpg" alt="" width="340" height="453" loading="lazy"></div>
               </div>
           </div>
           <div class="reviewscontainer container" id="reviews">

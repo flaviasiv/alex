@@ -35,7 +35,7 @@ get_header(); // Chama o cabeçalho do tema
               </defs>
             </svg> Get a free estimate</a></button>
         </div>
-        <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Window-Cleaning-min-scaled.webp" alt="" class="imgcontent">
+        <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Window-Cleaning.jpg" alt="" class="imgcontent">
     </div>
     <p>Say goodbye to streaks, dust, and water spots! Our window cleaning service leaves your glass sparkling—inside and out. We clean panes, sills, tracks, and screens with attention to detail and a streak-free finish that enhances natural light and curb appeal</p>
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="127" viewBox="0 0 16 127" fill="none">

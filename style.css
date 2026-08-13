@@ -391,7 +391,7 @@ small{
 .preferencecontainer{
     display: flex;
     justify-content: center;
-    background: url(https://alexcleaningoh.com/wp-content/uploads/2024/11/prefebg.png) no-repeat;
+    background: url(https://alexcleaningoh.com/wp-content/uploads/2024/11/prefebg.jpg) no-repeat;
     background-position: 100%;
     background-size: cover;
     padding: 100px 0;
@@ -431,7 +431,7 @@ small{
     line-height: 100%
 }
 .aboutcontainer{
-    background: url(https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/aboutbg.png) no-repeat;
+    background: url(https://alexcleaningoh.com/wp-content/uploads/2024/11/aboutbg.jpg) no-repeat;
     background-position: 100%;
     background-size: cover;
     padding: 100px 0;
@@ -482,7 +482,7 @@ small{
 .missioncontainer, .reviewscontainer{
     display: flex;
     flex-direction: column;
-    background: url(https://alexcleaningoh-com.preview-domain.com/wp-content/uploads/2024/11/missionbg.png) no-repeat;
+    background: url(https://alexcleaningoh.com/wp-content/uploads/2024/11/missionbg.jpg) no-repeat;
     background-position: 100%;
     background-size: cover;
     background-color: #021227;
@@ -639,7 +639,7 @@ small{
 .contactcontainer{
     display: flex;
     flex-direction: column;
-    background: url(https://alexcleaningoh.com/wp-content/uploads/2024/11/contactbg.png) no-repeat;
+    background: url(https://alexcleaningoh.com/wp-content/uploads/2024/11/contactbg.jpg) no-repeat;
 	background-position:center;
     background-position-y: bottom;
     background-size: 100%;
@@ -1106,7 +1106,7 @@ a{
         gap: 3px;
     }
     .contactcontainer{
-        background: url(https://alexcleaningoh.com/wp-content/uploads/2024/11/contactbg-m.png) no-repeat;
+        background: url(https://alexcleaningoh.com/wp-content/uploads/2024/11/contactbg-m.jpg) no-repeat;
         background-position: center;
         background-position-y: bottom;
         background-size: 120%;

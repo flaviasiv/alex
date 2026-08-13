@@ -36,7 +36,7 @@ get_header(); // Chama o cabeçalho do tema
               </defs>
             </svg> Get a free estimate</a></button>
         </div>
-        <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/move.png" alt="" class="imgcontent">
+        <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/move.jpg" alt="" class="imgcontent" loading="lazy">
     </div>
     <p>Moving can be stressful, but our move-in and move-out cleaning services are here to make the process smoother. Whether you’re leaving your old place or preparing your new one, we clean every detail so the space is move-in ready. We’ll scrub floors, clean inside cabinets and appliances, and make sure bathrooms and kitchens are spotless. For those who want an even more thorough job, we offer deep cleaning that includes areas often overlooked, such as baseboards, behind appliances, and inside closets. With our service, you can focus on your move while we take care of the cleaning, ensuring the space is pristine for the next occupants or your fresh start.</p>
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="127" viewBox="0 0 16 127" fill="none">

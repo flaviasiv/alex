@@ -126,7 +126,7 @@
                             See more</button>
                           </div>
                       </div>
-                      <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/servresidential.png" alt="" class="bgcard">
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/servresidential.jpg" alt="" class="bgcard" loading="lazy">
                     </a>
                   </div>
                   <div class="servicescard aos-fade">
@@ -149,7 +149,7 @@
                               See more</button>
                           </div>
                       </div>
-                      <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/servoffice.png" alt="" class="bgcard">
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/servoffice.jpg" alt="" class="bgcard" loading="lazy">
                     </a>
                   </div>
                   <div class="servicescard aos-fade">
@@ -172,7 +172,7 @@
                               See more</button>
                           </div>
                       </div>
-                      <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/servmove.png" alt="" class="bgcard">
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/servmove.jpg" alt="" class="bgcard" loading="lazy">
                     </a>
                   </div>
                   <div class="servicescard postserv aos-fade">
@@ -196,7 +196,7 @@
                                 See more</button>
                             </div>
                       </div>
-                      <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/servpost.png" alt="" class="bgcard">
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/servpost.jpg" alt="" class="bgcard" loading="lazy">
                     </a>
                   </div>
                   <div class="servicescard postserv aos-fade">
@@ -219,7 +219,7 @@
                                 See more</button>
                             </div>
                       </div>
-                      <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Window-Cleaning-min-scaled.webp" alt="" class="bgcard">
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Window-Cleaning.jpg" alt="" class="bgcard">
                     </a>
                   </div>
                   <div class="servicescard postserv aos-fade">
@@ -242,7 +242,7 @@
                                 See more</button>
                             </div>
                       </div>
-                      <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Carpet-Upholstery-Cleaning-min-scaled.webp" alt="" class="bgcard">
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Carpet-Upholstery-Cleaning.jpg" alt="" class="bgcard">
                     </a>
                   </div>
                   <div class="servicescard postserv aos-fade">
@@ -265,7 +265,7 @@
                                 See more</button>
                             </div>
                       </div>
-                      <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Basement-Cleaning-Organization-min-scaled.webp" alt="" class="bgcard">
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Basement-Cleaning-Organization.jpg" alt="" class="bgcard">
                     </a>
                   </div>
                 </div>
@@ -290,7 +290,7 @@
                               </svg>
                               See more</button>
                           </div>
-                          <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/servresidential.png" alt="" class="bgcard">
+                          <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/servresidential.jpg" alt="" class="bgcard" loading="lazy">
                         </a>
                       </div>
                     </swiper-slide>
@@ -313,7 +313,7 @@
                               </svg>
                               See more</button>
                           </div>
-                          <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/servoffice.png" alt="" class="bgcard">
+                          <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/servoffice.jpg" alt="" class="bgcard" loading="lazy">
                         </a>
                       </div>
                     </swiper-slide>
@@ -336,7 +336,7 @@
                               </svg>
                               See more</button>
                           </div>
-                          <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/servmove.png" alt="" class="bgcard">
+                          <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/servmove.jpg" alt="" class="bgcard" loading="lazy">
                         </a>
                       </div>
                     </swiper-slide>
@@ -360,7 +360,7 @@
                               </svg>
                               See more</button>
                           </div>
-                          <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/servpost.png" alt="" class="bgcard">
+                          <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/servpost.jpg" alt="" class="bgcard" loading="lazy">
                         </a>
                       </div>
                     </swiper-slide>
@@ -385,7 +385,7 @@
                                 See more</button>
                             </div>
                       </div>
-                      <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Window-Cleaning-min-scaled.webp" alt="" class="bgcard">
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Window-Cleaning.jpg" alt="" class="bgcard">
                     </a>
                   </div>
                     </swiper-slide>
@@ -410,7 +410,7 @@
                                 See more</button>
                             </div>
                       </div>
-                      <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Carpet-Upholstery-Cleaning-min-scaled.webp" alt="" class="bgcard">
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Carpet-Upholstery-Cleaning.jpg" alt="" class="bgcard">
                     </a>
                   </div>
                     </swiper-slide>
@@ -435,7 +435,7 @@
                                 See more</button>
                             </div>
                       </div>
-                      <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Basement-Cleaning-Organization-min-scaled.webp" alt="" class="bgcard">
+                      <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Basement-Cleaning-Organization.jpg" alt="" class="bgcard">
                     </a>
                   </div>
                     </swiper-slide>
@@ -489,7 +489,7 @@
                <div class="abouttitle aos-fade">
                  <small>Commited to</small>
                  <h2>SPARKLING RESULTS</h2>
-                 <img class="ownerimg aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2024/11/AlexOwner.png" alt="">
+                 <img class="ownerimg aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2024/11/AlexOwner.jpg" alt="" loading="lazy">
                </div>
                <div class="aboutinfos aos-fade">
                  <small>about us</small>
@@ -577,9 +577,9 @@
                 </div>
               </div>
               <div class="gallerygrid gallerygridd">
-                <div class="gallerycard"><img class="aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2024/12/Gallery-17.png" alt=""><img class="aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2024/12/Gallery-19.png" alt=""></div>
-                <div class="gallerycard cardm-t"><img class="aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2024/12/Gallery-20.png" alt=""><img class="aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2024/12/Gallery-18.png" alt=""></div>
-                <div class="gallerycard"><img class="aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2024/12/Move-in-Out.png" alt=""><img class="aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2024/12/Office-Cleaning-2.png" alt=""></div>
+                <div class="gallerycard"><img class="aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Gallery-17.jpg" alt="" width="340" height="453" loading="lazy"><img class="aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Gallery-19.jpg" alt="" width="340" height="453" loading="lazy"></div>
+                <div class="gallerycard cardm-t"><img class="aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Gallery-20.jpg" alt="" width="340" height="453" loading="lazy"><img class="aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Gallery-18.jpg" alt="" width="340" height="453" loading="lazy"></div>
+                <div class="gallerycard"><img class="aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Move-in-Out-1.jpg" alt="" width="340" height="453" loading="lazy"><img class="aos-fade" src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Office-Cleaning.jpg" alt="" width="340" height="453" loading="lazy"></div>
               </div>
               <!-- <div class="gallerygrid gallerygridm">
                 <swiper-container class="mySwiper2 aos-fade" pagination="true" pagination-clickable="true" space-between="10" slides-per-view="auto" loop="true" navigation="true" autoplay-delay="4000" pagination-dynamic-bullets="true">

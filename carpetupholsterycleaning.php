@@ -35,7 +35,7 @@ get_header(); // Chama o cabeçalho do tema
               </defs>
             </svg> Get a free estimate</a></button>
         </div>
-        <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Window-Cleaning-min-scaled.webp" alt="" class="imgcontent">
+        <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Carpet-Upholstery-Cleaning.jpg" alt="" class="imgcontent">
     </div>
     <p>Your carpets and furniture deserve a deep refresh. We remove built-up dirt, stains, and odors using fabric-safe products and extraction equipment. From rugs to sofas, our service revitalizes your space, leaving it cleaner, fresher, and healthier.</p>
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="127" viewBox="0 0 16 127" fill="none">

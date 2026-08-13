@@ -34,7 +34,7 @@ get_header(); // Chama o cabeçalho do tema
               </defs>
             </svg> Get a free estimate</a></button>
         </div>
-        <img src="https://alexcleaningoh.com/wp-content/uploads/2025/05/Basement-Cleaning-Organization-min-scaled.webp" alt="" class="imgcontent">
+        <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/Basement-Cleaning-Organization.jpg" alt="" class="imgcontent">
     </div>
     <p>A clean basement is a usable basement. We handle the deep cleaning and tackle clutter, transforming forgotten spaces into organized, functional areas. Dusting, sweeping, decluttering, and reorganizing — we do it all so you don’t have to.</p>
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="127" viewBox="0 0 16 127" fill="none">

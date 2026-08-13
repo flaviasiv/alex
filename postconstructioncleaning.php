@@ -36,7 +36,7 @@ get_header(); // Chama o cabeçalho do tema
               </defs>
             </svg> Get a free estimate</a></button>
         </div>
-        <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/post.png" alt="" class="imgcontent">
+        <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/post.jpg" alt="" class="imgcontent" loading="lazy">
     </div>
     <p>After the dust settles from a renovation or construction project, our post-construction cleaning team steps in to make your space shine. We begin by removing debris from the yard, garage, or other outdoor areas, clearing away nails, screws, sawdust, and any other materials left behind. The exterior walls are washed using a pressure washer to eliminate dirt, dust, and debris. We clean all windows with glass cleaner, ensuring a spotless finish, and clear out gutters to remove any blockages while inspecting for potential damage. Walkways and driveways are swept clean, and patios and decks are given a thorough pressure wash to remove dirt and grime. Fences and gates are also cleaned, leaving every exterior feature looking fresh and polished. Our attention to detail ensures that your property is left pristine and ready to enjoy.</p>
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="127" viewBox="0 0 16 127" fill="none">

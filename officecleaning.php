@@ -35,7 +35,7 @@ get_header(); // Chama o cabeçalho do tema
               </defs>
             </svg> Get a free estimate</a></button>
         </div>
-        <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/office.png" alt="" class="imgcontent">
+        <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/office.jpg" alt="" class="imgcontent" loading="lazy">
     </div>
     <p>Our office cleaning services are designed to create a clean, healthy, and organized work environment. We take care of daily tasks like emptying trash bins, dusting surfaces, vacuuming carpets, and sanitizing restrooms. Additionally, we offer deep cleaning options for areas that require more attention, such as break rooms, kitchenettes, and high-touch surfaces like door handles, light switches, and shared equipment. With our services, your office will not only appear spotless but will maintain a professional, welcoming atmosphere for employees and clients alike.</p>
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="127" viewBox="0 0 16 127" fill="none">

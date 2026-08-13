@@ -35,7 +35,7 @@ get_header(); // Chama o cabeçalho do tema
               </defs>
             </svg> Get a free estimate</a></button>
         </div>
-        <img src="https://alexcleaningoh.com/wp-content/uploads/2024/11/residential.png" alt="" class="imgcontent">
+        <img src="https://alexcleaningoh.com/wp-content/uploads/2026/08/residential.jpg" alt="" class="imgcontent" loading="lazy">
     </div>
     <p>Our residential cleaning service goes beyond the surface to give your home a thorough, refreshing clean. We handle everything from dusting, vacuuming, and mopping to deep cleaning your kitchen, bathrooms, and living areas. Whether it’s wiping down countertops, scrubbing sinks, or cleaning baseboards and window sills, our team ensures that every corner of your home is spotless. For those looking for extra care, we offer deep cleaning options that focus on hard-to-reach places and areas that accumulate dust and dirt over time. Your home will not only look great but feel fresher and healthier for you and your family.</p>
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="127" viewBox="0 0 16 127" fill="none">

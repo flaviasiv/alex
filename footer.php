@@ -83,6 +83,8 @@
     </div>
 </footer>
 
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/cookie-consent.js" data-policy-href="https://alexcleaningoh.com/cookies-policy/" defer></script>
+
 <?php wp_footer(); ?>
 
 </body>
